@@ -12,7 +12,7 @@
 - [Generative Pre-trained Transformer 3 (GPT-3)](https://in.springboard.com/blog/openai-gpt-3/) — revolutionary NLP model — 515 times more powerful than BERT
 
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
-    - [ ] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
+    - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
     - [ ] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
     - [ ] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
     - [ ] [Lesson 4](https://course.fast.ai/videos/?lesson=4)
