@@ -1,4 +1,4 @@
-# keeplearninig
+# keep_learning
 
 ### Resources
 <!-- BLOG-POST-LIST:START -->
