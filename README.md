@@ -3,6 +3,7 @@
 ### Resources
 <!-- BLOG-POST-LIST:START -->
 - [Deep Learning Book](https://www.deeplearningbook.org) — helloworld_for_deep_learning
+- [Full Stack Deep Learning](https://course.fullstackdeeplearning.com)
 <!-- BLOG-POST-LIST:END -->
 
 ### Blogs — Be Better Everyday
