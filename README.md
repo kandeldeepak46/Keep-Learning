@@ -11,7 +11,7 @@
 - [X] [Learn Neural Networks and Deep Learning From Scratch](http://neuralnetworksanddeeplearning.com) — Theory
 - [X] [Learn BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) — Bidirectional Encoder Representations from Transformers — state-of-art NLP model
 - [Generative Pre-trained Transformer 3 (GPT-3)](https://in.springboard.com/blog/openai-gpt-3/) — revolutionary NLP model — 515 times more powerful than BERT
-- [Learn Regex] (https://pymotw.com/3/re/)
+- [Learn Regex](https://pymotw.com/3/re/)
 
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
     - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
