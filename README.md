@@ -13,6 +13,10 @@
 - [Generative Pre-trained Transformer 3 (GPT-3)](https://in.springboard.com/blog/openai-gpt-3/) — revolutionary NLP model — 515 times more powerful than BERT
 - [Learn Regex](https://pymotw.com/3/re/)
 
+### Learn Python
+- [Dive Into Python](https://diveintopython3.problemsolving.io/)
+
+### Deep Learning 
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
     - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
     - [ ] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
