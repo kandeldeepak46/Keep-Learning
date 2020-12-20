@@ -12,8 +12,7 @@
 - [X] [Learn BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) — Bidirectional Encoder Representations from Transformers — state-of-art NLP model
 - [Generative Pre-trained Transformer 3 (GPT-3)](https://in.springboard.com/blog/openai-gpt-3/) — revolutionary NLP model — 515 times more powerful than BERT
 - [X] [Learn Regex](https://pymotw.com/3/re/)
-
-### Learn Python
+- [Numpy Basics](https://cs231n.github.io/python-numpy-tutorial/)
 - [Dive Into Python](https://diveintopython3.problemsolving.io/)
 
 ### Deep Learning 
