@@ -2,18 +2,18 @@
 
 ### Resources
 <!-- BLOG-POST-LIST:START -->
-- [Deep Learning Book](https://www.deeplearningbook.org) — helloworld_for_deep_learning
-- [Full Stack Deep Learning](https://course.fullstackdeeplearning.com)
+- [X] [Deep Learning Book](https://www.deeplearningbook.org) — helloworld_for_deep_learning
+- [ ] [Full Stack Deep Learning](https://course.fullstackdeeplearning.com)
 <!-- BLOG-POST-LIST:END -->
 
 ### Blogs — Be Better Everyday
 <!-- BLOG-POST-LIST:START -->
 - [X] [Learn Neural Networks and Deep Learning From Scratch](http://neuralnetworksanddeeplearning.com) — Theory
 - [X] [Learn BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) — Bidirectional Encoder Representations from Transformers — state-of-art NLP model
-- [Generative Pre-trained Transformer 3 (GPT-3)](https://in.springboard.com/blog/openai-gpt-3/) — revolutionary NLP model — 515 times more powerful than BERT
+- [ ] [Generative Pre-trained Transformer 3 (GPT-3)](https://in.springboard.com/blog/openai-gpt-3/) — revolutionary NLP model — 515 times more powerful than BERT
 - [X] [Learn Regex](https://pymotw.com/3/re/)
-- [Numpy Basics](https://cs231n.github.io/python-numpy-tutorial/)
-- [Dive Into Python](https://diveintopython3.problemsolving.io/)
+- [ ] [Numpy Basics](https://cs231n.github.io/python-numpy-tutorial/)
+- [ ] [Dive Into Python](https://diveintopython3.problemsolving.io/)
 
 ### Deep Learning 
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
