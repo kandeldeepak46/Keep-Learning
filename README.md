@@ -21,6 +21,7 @@
    - [ ] [Numpy Basics](https://cs231n.github.io/python-numpy-tutorial/)
   ### Python
    - [ ] [Dive Into Python](https://diveintopython3.problemsolving.io/)
+   - [ ] [Learn About Python's Pathlib](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html) — Really Great
   ### Be Pythonic
    - [ ] [Writing Pythonic Code](https://dbader.org/blog/writing-pythonic-code) — Transforming from messy code to beautiful pythonic code
    - [ ] [ Write More Pythonic Code](https://realpython.com/learning-paths/writing-pythonic-code/)
