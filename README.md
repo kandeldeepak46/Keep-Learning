@@ -23,6 +23,7 @@
    - [ ] [Dive Into Python](https://diveintopython3.problemsolving.io/)
   ### Be Pythonic
    - [ ] [Writing Pythonic Code](https://dbader.org/blog/writing-pythonic-code) — Transforming from messy code to beautiful pythonic code
+   - [ ] [ Write More Pythonic Code](https://realpython.com/learning-paths/writing-pythonic-code/)
 
 ## Video Tutorials — Deep Learning
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
