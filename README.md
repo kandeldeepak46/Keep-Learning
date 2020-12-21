@@ -14,6 +14,8 @@
 - [X] [Learn Regex](https://pymotw.com/3/re/)
 - [ ] [Numpy Basics](https://cs231n.github.io/python-numpy-tutorial/)
 - [ ] [Dive Into Python](https://diveintopython3.problemsolving.io/)
+    ## Be Pythonic
+    - [ ] [Writing Pythonic Code](https://dbader.org/blog/writing-pythonic-code)
 
 ### Deep Learning 
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
