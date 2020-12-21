@@ -1,6 +1,6 @@
 # keep_learning
 
-### Resources
+## Resources
 <!-- BLOG-POST-LIST:START -->
 - [X] [Deep Learning Book](https://www.deeplearningbook.org) — helloworld_for_deep_learning
 - [ ] [Full Stack Deep Learning](https://course.fullstackdeeplearning.com)
@@ -24,7 +24,7 @@
   ### Be Pythonic
    - [ ] [Writing Pythonic Code](https://dbader.org/blog/writing-pythonic-code) — Transforming from messy code to beautiful pythonic code
 
-### Video Tutorials — Deep Learning
+## Video Tutorials — Deep Learning
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
     - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
     - [ ] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
