@@ -18,13 +18,15 @@
   ### Regex
    - [X] [Learn Regex](https://pymotw.com/3/re/)
   ### Numpy
-   - [ ] [Numpy Basics](https://cs231n.github.io/python-numpy-tutorial/)
+   - [X] [Numpy Basics](https://cs231n.github.io/python-numpy-tutorial/)
   ### Python
-   - [ ] [Dive Into Python](https://diveintopython3.problemsolving.io/)
-   - [ ] [Learn About Python's Pathlib](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html) — No Really, Python's Pathlib is Great
+   - [X] [Dive Into Python](https://diveintopython3.problemsolving.io/)
+   - [X] [Learn About Python's Pathlib](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html) — No Really, Python's Pathlib is Great
   ### Be Pythonic
    - [ ] [Writing Pythonic Code](https://dbader.org/blog/writing-pythonic-code) — Transforming from messy code to beautiful pythonic code
    - [ ] [ Write More Pythonic Code](https://realpython.com/learning-paths/writing-pythonic-code/)
+  ### Pandas — Be Able to Manipulate Data 
+   - [X] [Learn Basic EDA with Pandas](https://realpython.com/pandas-python-explore-dataset/) 
 
 ## Video Tutorials — Deep Learning
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
