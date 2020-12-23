@@ -22,6 +22,7 @@
   ### Python
    - [X] [Dive Into Python](https://diveintopython3.problemsolving.io/)
    - [X] [Learn About Python's Pathlib](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html) — No Really, Python's Pathlib is Great
+   - [X] [Python 101](https://python101.pythonlibrary.org/)
   ### Be Pythonic
    - [ ] [Writing Pythonic Code](https://dbader.org/blog/writing-pythonic-code) — Transforming from messy code to beautiful pythonic code
    - [ ] [ Write More Pythonic Code](https://realpython.com/learning-paths/writing-pythonic-code/)
