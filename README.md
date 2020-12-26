@@ -9,6 +9,7 @@
 ## Blogs — Be Better Everyday
 <!-- BLOG-POST-LIST:START -->
   ### Deep Learning
+   - [X] [Creating Neural Network From Scratch](https://heartbeat.fritz.ai/building-a-neural-network-from-scratch-using-python-part-1-6d399df8d432) — Step By Step With Pythonic Code
    - [X] [Learn Neural Networks and Deep Learning From Scratch](http://neuralnetworksanddeeplearning.com) — Theory
    - [X] [Learn BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) — Bidirectional Encoder Representations from Transformers — state-of-art NLP model
    
