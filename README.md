@@ -4,6 +4,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [X] [Deep Learning Book](https://www.deeplearningbook.org) — helloworld_for_deep_learning
 - [ ] [Full Stack Deep Learning](https://course.fullstackdeeplearning.com)
+    - [X] [Setting Up Machine learning Projects](https://course.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects)
+    - [X] [Infrastructure And Tooling](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling)
 <!-- BLOG-POST-LIST:END -->
 
 ## Blogs — Be Better Everyday
