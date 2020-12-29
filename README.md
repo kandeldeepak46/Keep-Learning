@@ -32,7 +32,8 @@
    - [ ] [ Write More Pythonic Code](https://realpython.com/learning-paths/writing-pythonic-code/)
   ### Pandas — Be Able to Manipulate Data 
    - [X] [Learn Basic EDA with Pandas](https://realpython.com/pandas-python-explore-dataset/) 
-
+### Developer Tools For ML
+   - [Weight And Biases](https://wandb.ai/site)
 ## Video Tutorials — Deep Learning
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
     - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
