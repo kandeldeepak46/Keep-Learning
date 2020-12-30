@@ -6,6 +6,7 @@
 - [ ] [Full Stack Deep Learning](https://course.fullstackdeeplearning.com)
     - [X] [Setting Up Machine learning Projects](https://course.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects)
     - [X] [Infrastructure And Tooling](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling)
+    - [X] [Data Management](https://course.fullstackdeeplearning.com/course-content/data-management)
 <!-- BLOG-POST-LIST:END -->
 
 ## Blogs — Be Better Everyday
