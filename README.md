@@ -55,7 +55,7 @@
    - [ ] [Image Processing With Scipy and Numpy](https://scipy-lectures.org/advanced/image_processing/)
    
 ## Video Tutorials — Deep Learning
-- [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
+- [X] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
     - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
     - [ ] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
     - [ ] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
