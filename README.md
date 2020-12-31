@@ -54,8 +54,18 @@
    - [ ] [Online Course offered by Duke University on Coursera](https://www.coursera.org/learn/image-processing)
    - [ ] [Image Processing With Scipy and Numpy](https://scipy-lectures.org/advanced/image_processing/)
    
+   ### Advanced Level
+   - [ ] [Linear Discriminant Analysis](https://www.youtube.com/watch?v=aSyQqHY4Vqc)
+   - [ ] [Probability, Bayes rule, Maximum Likelihood, MAP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
+   - [ ] [Mixtures and Expectation-Maximization Algorithm](https://www.youtube.com/watch?v=Q1oqJSgp_Dk)
+   - [ ] [Introductory level Statistical Learning](https://www.coursera.org/specializations/statistics)
+   - [ ] [Hidden Markov Models](https://www.youtube.com/watch?v=D_RIe5bd3hk)
+   - [ ] [Support Vector Machines](https://www.youtube.com/watch?v=_PwhiWxHK8o)
+   - [ ] [Genetic Algorithms](https://www.youtube.com/watch?v=kHyNqSnzP8Y)
+   - [ ] [Bayesian Networks](https://www.coursera.org/learn/probabilistic-graphical-models)
+
 ## Video Tutorials — Deep Learning
-- [X] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
+- [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
     - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
     - [ ] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
     - [ ] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
@@ -65,7 +75,7 @@
     - [ ] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
     - [ ] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
     
-- [ ] [Full Stack Deep Learning](https://course.fullstackdeeplearning.com)
+- [X] [Full Stack Deep Learning](https://course.fullstackdeeplearning.com)
     - [X] [Setting Up Machine learning Projects](https://course.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects)
     - [X] [Infrastructure And Tooling](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling)
     - [X] [Data Management](https://course.fullstackdeeplearning.com/course-content/data-management)
