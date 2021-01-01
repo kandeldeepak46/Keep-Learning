@@ -5,7 +5,7 @@
 - [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) — be used to with ML terms
 - [Deep Learning Book](https://www.deeplearningbook.org) — helloworld_for_deep_learning
 - [Basic Image Processing](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html) — learn baics of <mark>image processing</mark> for  <mark>image-preprocessing</mark>.
- - [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
+ 
 <!-- BLOG-POST-LIST:END -->
 
 ## Blogs — Be Better Everyday
@@ -17,6 +17,10 @@
    
    - [ ] [Generative Pre-trained Transformer 3 (GPT-3)](https://in.springboard.com/blog/openai-gpt-3/) — revolutionary NLP model — 515 times more powerful than BERT
   
+  ### Machinne Learning In Production
+   - [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
+   - [Rules of Machine Learning : Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
+
   
   ### Regex
    - [X] [Learn Regex](https://pymotw.com/3/re/)
