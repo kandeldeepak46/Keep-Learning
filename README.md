@@ -36,8 +36,9 @@
    - [ ] [ Write More Pythonic Code](https://realpython.com/learning-paths/writing-pythonic-code/)
   
   ### Pandas — Be Able to Manipulate Data 
-   - [X] [Learn Basic EDA with Pandas](https://realpython.com/pandas-python-explore-dataset/) 
-
+   - [X] [Learn Basic EDA with Pandas](https://realpython.com/pandas-python-explore-dataset/)
+  ### Control Your Code — Versioning
+   - [ ] [A Sucessful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/) 
 ### Developer Tools For ML
    - [Weight And Biases](https://wandb.ai/site)
 
