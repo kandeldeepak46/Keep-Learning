@@ -1,5 +1,21 @@
 # keep_learning
 
+## MLOps Core
+
+- [ ] [Machine Learning Operations: You Design It, You Train It, You Run It!](https://ml-ops.org/)
+- [ ] [MLOps SIG Specification](https://github.com/tdcox/mlops-roadmap/blob/master/MLOpsRoadmap2020.md)
+- [ ] [ML in Production](http://mlinproduction.com/)
+- [ ] [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning)
+- [ ] [Udemy “Deployment of ML Models”](https://www.udemy.com/course/deployment-of-machine-learning-models/)
+- [ ] [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+- [ ] [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
+- [ ] [:rocket: Putting ML in Production](https://madewithml.com/courses/putting-ml-in-production/)
+- [ ] [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/)
+- [ ] [IBM ML Operationalization Starter Kit](https://github.com/ibm-cloud-architecture/refarch-ml-ops)
+- [ ] [Productize ML. A self-study guide for Developers and Product Managers building Machine Learning products.](https://productizeml.gitbook.io/productize-ml/)
+- [ ] [MLOps (Machine Learning Operations) Fundamentals on GCP](https://www.coursera.org/learn/mlops-fundamentals)
+- [ ] [ML full Stack preparation](https://www.confetti.ai/)
+
 ## Resources
 <!-- BLOG-POST-LIST:START -->
 - [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) — be used to with ML terms
