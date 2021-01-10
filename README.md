@@ -109,3 +109,5 @@
     - [X] [Machine Learning Teams](https://course.fullstackdeeplearning.com/course-content/ml-teams)
     - [X] [Training And Debugging](https://course.fullstackdeeplearning.com/course-content/training-and-debugging)
     - [X] [Testing And Deployment](https://course.fullstackdeeplearning.com/course-content/testing-and-deployment)
+- [ ] [CNN For Visual Recognition — cs231n](http://cs231n.stanford.edu/)
+    - [ ] [Introduction to Convolutional Neural Networks](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
