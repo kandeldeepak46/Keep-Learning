@@ -110,4 +110,14 @@
     - [X] [Training And Debugging](https://course.fullstackdeeplearning.com/course-content/training-and-debugging)
     - [X] [Testing And Deployment](https://course.fullstackdeeplearning.com/course-content/testing-and-deployment)
 - [ ] [CNN For Visual Recognition — cs231n](http://cs231n.stanford.edu/)
-    - [ ] [Introduction to Convolutional Neural Networks](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+    - [ ] [Lecture 1 | Introduction to Convolutional Neural Networks](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+    - [ ] [Lecture 2 | Image Classification](https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=2)
+    - [ ] [lecture 3 | Loss Function and Optimization](https://www.youtube.com/watch?v=h7iBpEHGVNc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=3)
+    - [ ] [lecture 4 | Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=4)
+    - [ ] [Lecture 5 | Convulutional Neural Network](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=5)
+    - [ ] [Lecture 6  | Training Neural Network I](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=6)
+    - [ ] [Lecture 7 | Training Neural Network II](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7)
+    - [ ] [Lecture 8 | Deep learning Software](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=8)
+    - [ ] [Lecture 9 | CNN Architectures](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=9)
+    
+    
