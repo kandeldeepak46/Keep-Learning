@@ -63,7 +63,7 @@
    - [X] [Learn Basic EDA with Pandas](https://realpython.com/pandas-python-explore-dataset/)
    - [X] [Article: Modern Pandas](https://tomaugspurger.github.io)
       - [X] [Modern Pandas | PART 1 | Introduction](https://tomaugspurger.github.io/modern-1-intro.html)
-      - [ ] [Modern Pandas | PART 2 | Method Chaining](https://tomaugspurger.github.io/method-chaining.html)
+      - [X] [Modern Pandas | PART 2 | Method Chaining](https://tomaugspurger.github.io/method-chaining.html)
       - [ ] [Modern Pandas | PART 3 | Indexes](https://tomaugspurger.github.io/modern-3-indexes.html)
       - [ ] [Modern Pandas | PART 4 | Performance](https://tomaugspurger.github.io/modern-4-performance.html)
       - [ ] [Modern Pandas | PART 5 | Tidy](https://tomaugspurger.github.io/modern-5-tidy.html)
