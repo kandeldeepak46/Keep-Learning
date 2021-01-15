@@ -65,7 +65,7 @@
       - [X] [Modern Pandas | PART 1 | Introduction](https://tomaugspurger.github.io/modern-1-intro.html)
       - [X] [Modern Pandas | PART 2 | Method Chaining](https://tomaugspurger.github.io/method-chaining.html)
       - [X] [Modern Pandas | PART 3 | Indexes](https://tomaugspurger.github.io/modern-3-indexes.html)
-      - [ ] [Modern Pandas | PART 4 | Performance](https://tomaugspurger.github.io/modern-4-performance.html)
+      - [X] [Modern Pandas | PART 4 | Performance](https://tomaugspurger.github.io/modern-4-performance.html)
       - [ ] [Modern Pandas | PART 5 | Tidy](https://tomaugspurger.github.io/modern-5-tidy.html)
       - [ ] [Modern Pandas | PART 6 | Visualization](https://tomaugspurger.github.io/modern-6-visualization.html)
       - [ ] [Modern Pandas | PART 7 | Time Series](https://tomaugspurger.github.io/modern-7-timeseries.html)
