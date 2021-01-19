@@ -1,6 +1,18 @@
 # keep_learning
 
-## MLOps Core
+## MLOps Fundamentals
+
+### Software Engineering 
+
+- [ ] [The Twelve Factors](https://12factor.net/)
+- [ ] [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
+- [ ] [Book "The DevOps Handbook" by Gene Kim, et al. 2016](https://itrevolution.com/book/the-devops-handbook/)
+- [ ] [State of DevOps 2019](https://research.google/pubs/pub48455/)
+- [ ] [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml)
+- [ ] [School of SRE](https://linkedin.github.io/school-of-sre/)
+
+
+ ### MLOps Core
 
 - [X] [Machine Learning Operations: You Design It, You Train It, You Run It!](https://ml-ops.org/)
 - [X] [MLOps SIG Specification](https://github.com/tdcox/mlops-roadmap/blob/master/MLOpsRoadmap2020.md)
