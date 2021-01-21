@@ -17,7 +17,7 @@
 - [X] [Machine Learning Operations: You Design It, You Train It, You Run It!](https://ml-ops.org/)
 - [X] [MLOps SIG Specification](https://github.com/tdcox/mlops-roadmap/blob/master/MLOpsRoadmap2020.md)
 - [X] [ML in Production](http://mlinproduction.com/)
-- [ ] [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning)
+- [X] [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning)
 - [ ] [Udemy “Deployment of ML Models”](https://www.udemy.com/course/deployment-of-machine-learning-models/)
 - [ ] [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 - [ ] [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
