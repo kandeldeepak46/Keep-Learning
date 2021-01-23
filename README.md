@@ -64,7 +64,7 @@
    - [X] [Dive Into Python](https://diveintopython3.problemsolving.io/)
    - [X] [Learn About Python's Pathlib](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html) — No Really, Python's Pathlib is Great
    - [X] [Python 101](https://python101.pythonlibrary.org/)
-   - [ ] [Object Oriented With Python](https://realpython.com/python3-object-oriented-programming/) — Wholesome Blog For Learning OOP with Python 3
+   - [X] [Object Oriented With Python](https://realpython.com/python3-object-oriented-programming/) — Wholesome Blog For Learning OOP with Python 3
    - [X] [Code Refactoring for Software Engineering](https://realpython.com/python-refactoring/)
   
   ### Be Pythonic
