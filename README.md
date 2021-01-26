@@ -102,7 +102,7 @@
    
    ### Beginner Level — Image Procesing 
    - [ ] [Online Course offered by Duke University on Coursera](https://www.coursera.org/learn/image-processing)
-   - [ ] [Image Processing With Scipy and Numpy](https://scipy-lectures.org/advanced/image_processing/)
+   - [X] [Image Processing With Scipy and Numpy](https://scipy-lectures.org/advanced/image_processing/)
    
    ### Advanced Level
    - [ ] [Linear Discriminant Analysis](https://www.youtube.com/watch?v=aSyQqHY4Vqc)
