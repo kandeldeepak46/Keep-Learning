@@ -68,7 +68,7 @@
    - [X] [Code Refactoring for Software Engineering](https://realpython.com/python-refactoring/)
   
   ### Be Pythonic
-   - [ ] [Writing Pythonic Code](https://dbader.org/blog/writing-pythonic-code) — Transforming from messy code to beautiful pythonic code
+   - [X] [Writing Pythonic Code](https://dbader.org/blog/writing-pythonic-code) — Transforming from messy code to beautiful pythonic code
    - [ ] [ Write More Pythonic Code](https://realpython.com/learning-paths/writing-pythonic-code/)
   
   ### Pandas — Be Able to Manipulate Data 
