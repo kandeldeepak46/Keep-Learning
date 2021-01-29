@@ -50,7 +50,7 @@
    - [ ] [Generative Pre-trained Transformer 3 (GPT-3)](https://in.springboard.com/blog/openai-gpt-3/) — revolutionary NLP model — 515 times more powerful than BERT
   
   ### Machinne Learning In Production
-   - [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
+   - [X] [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
    - [Rules of Machine Learning : Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
   
