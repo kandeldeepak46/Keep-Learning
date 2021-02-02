@@ -69,7 +69,7 @@
   
   ### Be Pythonic
    - [X] [Writing Pythonic Code](https://dbader.org/blog/writing-pythonic-code) — Transforming from messy code to beautiful pythonic code
-   - [ ] [ Write More Pythonic Code](https://realpython.com/learning-paths/writing-pythonic-code/)
+   - [X] [ Write More Pythonic Code](https://realpython.com/learning-paths/writing-pythonic-code/)
   
   ### Pandas — Be Able to Manipulate Data 
    - [X] [Learn Basic EDA with Pandas](https://realpython.com/pandas-python-explore-dataset/)
