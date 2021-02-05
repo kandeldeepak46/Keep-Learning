@@ -28,6 +28,23 @@
 - [X] [MLOps (Machine Learning Operations) Fundamentals on GCP](https://www.coursera.org/learn/mlops-fundamentals)
 - [ ] [ML full Stack preparation](https://www.confetti.ai/)
 
+ ### MLOps: Model Deployment and Serving
+
+- [ ] [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
+- [ ] [Deploying R Models with MLflow and Docker](https://mdneuzerling.com/post/deploying-r-models-with-mlflow-and-docker/)
+- [ ] [What Does it Mean to Deploy a Machine Learning Model?](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)
+- [ ] [Software Interfaces for Machine Learning Deployment](https://mlinproduction.com/software-interfaces-for-machine-learning-deployment-deployment-series-02/)
+- [ ] [Batch Inference for Machine Learning Deployment](https://mlinproduction.com/batch-inference-for-machine-learning-deployment-deployment-series-03/)
+- [ ] [AWS Cost Optimization for ML Infrastructure - EC2 spend](https://blog.floydhub.com/aws-cost-optimization-for-ml-infra-ec2/)
+- [ ] [CI/CD for Machine Learning & AI](https://blog.paperspace.com/ci-cd-for-machine-learning-ai/)
+- [ ] [Itaú Unibanco: How we built a CI/CD Pipeline for machine learning with ***online training*** in Kubeflow](https://cloud.google.com/blog/products/ai-machine-learning/itau-unibanco-how-we-built-a-cicd-pipeline-for-machine-learning-with-online-training-in-kubeflow)
+- [ ] [101 For Serving ML Models](https://pakodas.substack.com/p/101-for-serving-ml-models-10217c9f0764)
+- [ ] [Deploying Machine Learning models to production — **Inference service architecture patterns**](https://medium.com/data-for-ai/deploying-machine-learning-models-to-production-inference-service-architecture-patterns-bc8051f70080)
+- [ ] [Serverless ML: Deploying Lightweight Models at Scale](https://mark.douthwaite.io/serverless-machine-learning/)
+- [ ] ML Model Rollout To Production. [Part 1](https://www.superwise.ai/resources/safely-rolling-out-ml-models-to-production) | [Part 2](https://www.superwise.ai/resources/part-ii-safely-rolling-out-models-to-production)
+- [ ] [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
+- [ ] [Deploying Python ML Models with Bodywork](https://alexioannides.com/2020/12/01/deploying-python-ml-models-with-bodywork/)
+
 ## Resources
 <!-- BLOG-POST-LIST:START -->
 - [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) — be used to with ML terms
