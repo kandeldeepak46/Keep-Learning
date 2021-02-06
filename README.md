@@ -68,7 +68,7 @@
   
   ### Machinne Learning In Production
    - [X] [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
-   - [Rules of Machine Learning : Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
+   - [X] [Rules of Machine Learning : Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
   
   ### Regex
