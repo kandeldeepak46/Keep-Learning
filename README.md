@@ -110,7 +110,7 @@
 ## Master The Computer Vision — List of blogs and tutorials for diving deep into CV
  
   ### Beginner Level — Mathematics
-   - [ ] [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+   - [X] [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
    - [X] [Singular Value Decomposition](https://www.youtube.com/watch?v=sJV0QyHoRio)
    - [ ] [Basic Pattern Recognition](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-622j-pattern-recognition-and-analysis-fall-2006/)
    - [ ] [Reduce The Dimesnion — PCA ](https://www.youtube.com/watch?v=H0HjNuNvFVI)
