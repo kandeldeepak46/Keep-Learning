@@ -1,7 +1,7 @@
 # keep_learning
 
 
-# Table of Content
+# contents
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
 | [Software Engineering - ML](#software-engineering) | [MLOps Core](#mlops-core) |
