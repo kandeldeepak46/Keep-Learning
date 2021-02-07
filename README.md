@@ -1,7 +1,13 @@
 # keep_learning
 
-## MLOps Fundamentals
 
+# Table of Content
+| <!-- -->                         | <!-- -->                         |
+| -------------------------------- | -------------------------------- |
+| [Software Engineering](#software-engineering) | [MLOps Core](#mlops-core) |
+
+## MLOps Fundamentals
+<a name="software-engineering"></a>
 ### Software Engineering 
 
 - [ ] [The Twelve Factors](https://12factor.net/)
@@ -11,7 +17,7 @@
 - [ ] [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml)
 - [ ] [School of SRE](https://linkedin.github.io/school-of-sre/)
 
-
+<a name="mlops-core"></a>
  ### MLOps Core
 
 - [X] [Machine Learning Operations: You Design It, You Train It, You Run It!](https://ml-ops.org/)
