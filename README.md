@@ -4,7 +4,7 @@
 # Table of Content
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
-| [Software Engineering](#software-engineering) | [MLOps Core](#mlops-core) |
+| [Software Engineering - ML](#software-engineering) | [MLOps Core](#mlops-core) |
 | [MLOps: Model Deployment and Serving](#deployment) |[MLOps: Testing, Monitoring and Maintenance](#testing-monintoring)
 
 ## MLOps Fundamentals
