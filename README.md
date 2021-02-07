@@ -45,6 +45,25 @@
 - [ ] [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
 - [ ] [Deploying Python ML Models with Bodywork](https://alexioannides.com/2020/12/01/deploying-python-ml-models-with-bodywork/)
 
+### MLOps: Testing, Monitoring and Maintenance
+
+- [ ] [Building dashboards for operational visibility (AWS)](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
+- [ ] [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
+- [ ] [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
+- [ ] [Unit Testing Data: What is it and how do you do it?](https://winderresearch.com/unit-testing-data-what-is-it-and-how-do-you-do-it/)
+- [ ] [How to Test Machine Learning Code and Systems](https://eugeneyan.com/writing/testing-ml/) ([Accompanying code](https://github.com/eugeneyan/testing-ml))
+- [ ] [Wu, T., Dong, Y., Dong, Z., Singa, A., Chen, X. and Zhang, Y., 2020. Testing Artificial Intelligence System Towards Safety and Robustness: State of the Art. IAENG International Journal of Computer Science, 47(3).](http://www.iaeng.org/IJCS/issues_v47/issue_3/IJCS_47_3_13.pdf)
+- [ ] [Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/)
+- [ ] [A/B Testing Machine Learning Models](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)
+- [ ] [Data validation for machine learning. Polyzotis, N., Zinkevich, M., Roy, S., Breck, E. and Whang, S., 2019. Proceedings of Machine Learning and Systems](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
+- [ ] [Testing machine learning based systems: a systematic mapping](https://link.springer.com/content/pdf/10.1007/s10664-020-09881-0.pdf)
+- [ ] [Explainable Monitoring: Stop flying blind and monitor your AI](https://blog.fiddler.ai/2020/04/explainable-monitoring-stop-flying-blind-and-monitor-your-ai/)
+- [ ] [WhyLogs: Embrace Data Logging Across Your ML Systems](https://medium.com/whylabs/whylogs-embrace-data-logging-a9449cd121d)
+- [ ] [Evidently AI. Insights on doing machine learning in production. (Vendor blog.)](https://evidentlyai.com/blog)
+- [ ] [The definitive guide to comprehensively monitoring your AI](https://www.monalabs.io/mona-blog/definitiveguidetomonitorai)
+- [ ] [Introduction to Unit Testing for Machine Learning](https://themlrebellion.com/blog/Introduction-To-Unit-Testing-Machine-Learning/)
+- [ ] [Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
+- [ ] Test-Driven Development in MLOps [Part 1](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec)
 ## Resources
 <!-- BLOG-POST-LIST:START -->
 - [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) — be used to with ML terms
