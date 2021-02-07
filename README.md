@@ -5,7 +5,8 @@
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
 | [Software Engineering - ML](#software-engineering) | [MLOps Core](#mlops-core) |
-| [MLOps: Model Deployment and Serving](#deployment) |[MLOps: Testing, Monitoring and Maintenance](#testing-monintoring)
+| [MLOps: Model Deployment and Serving](#deployment) |[MLOps: Testing, Monitoring and Maintenance](#testing-monintoring) |
+| [Blogs — Be Better Everyday](#useful-blogs)
 
 ## MLOps Fundamentals
 <a name="software-engineering"></a>
@@ -80,6 +81,7 @@
 - [Basic Image Processing](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html) — learn baics of <mark>image processing</mark> for  <mark>image-preprocessing</mark>.
  
 <!-- BLOG-POST-LIST:END -->
+<a name="useful-blogs"></a>
 
 ## Blogs — Be Better Everyday
 <!-- BLOG-POST-LIST:START -->
