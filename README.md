@@ -56,7 +56,7 @@
 ## Blogs — Be Better Everyday
 <!-- BLOG-POST-LIST:START -->
   ### Explore With Papers
-  - [ ] [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) — Word2Vec
+  - [X] [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) — Word2Vec
   
   
   ### Deep Learning
