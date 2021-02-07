@@ -5,6 +5,7 @@
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
 | [Software Engineering](#software-engineering) | [MLOps Core](#mlops-core) |
+| [MLOps: Model Deployment and Serving](#deployment) |[MLOps: Testing, Monitoring and Maintenance](#testing-monintoring)
 
 ## MLOps Fundamentals
 <a name="software-engineering"></a>
@@ -34,6 +35,7 @@
 - [X] [MLOps (Machine Learning Operations) Fundamentals on GCP](https://www.coursera.org/learn/mlops-fundamentals)
 - [ ] [ML full Stack preparation](https://www.confetti.ai/)
 
+<a name="deployment"></a>
  ### MLOps: Model Deployment and Serving
 
 - [ ] [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
@@ -51,6 +53,7 @@
 - [ ] [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
 - [ ] [Deploying Python ML Models with Bodywork](https://alexioannides.com/2020/12/01/deploying-python-ml-models-with-bodywork/)
 
+<a name="testing-monintoring"></a>
 ### MLOps: Testing, Monitoring and Maintenance
 
 - [ ] [Building dashboards for operational visibility (AWS)](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
