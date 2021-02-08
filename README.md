@@ -6,7 +6,7 @@
 | -------------------------------- | -------------------------------- |
 | [Software Engineering - ML](#software-engineering) | [MLOps Core](#mlops-core) |
 | [MLOps: Model Deployment and Serving](#deployment) |[MLOps: Testing, Monitoring and Maintenance](#testing-monintoring) |
-| [Blogs — Be Better Everyday](#useful-blogs)
+| [Blogs — Be Better Everyday](#useful-blogs) | [MIT 6S191  Introduction to Deep Learning](#mit-deeplearning) |
 
 ## MLOps Fundamentals
 <a name="software-engineering"></a>
@@ -162,6 +162,11 @@
    - [ ] [Bayesian Networks](https://www.coursera.org/learn/probabilistic-graphical-models)
 
 ## Video Tutorials — Deep Learning
+<a name = 'mit-deeplearning'></a>
+- [ ] [MIT 6S 191 | Deep Learning Lectures](http://introtodeeplearning.com/)
+    - [ ] [Lecture I | Indroduction to Deep Leaning](https://www.youtube.com/watch?v=5tvmMX8r_OM)
+   
+
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
     - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
     - [ ] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
