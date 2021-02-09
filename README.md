@@ -7,6 +7,7 @@
 | [Software Engineering - ML](#software-engineering) | [MLOps Core](#mlops-core) |
 | [MLOps: Model Deployment and Serving](#deployment) |[MLOps: Testing, Monitoring and Maintenance](#testing-monintoring) |
 | [Blogs — Be Better Everyday](#useful-blogs) | [MIT 6S191  Introduction to Deep Learning](#mit-deeplearning) |
+| [Master The Computer Vision — List of blogs and tutorials for diving deep into CV](#master-computer-vision)
 
 ## MLOps Fundamentals
 <a name="software-engineering"></a>
@@ -137,6 +138,7 @@
 ### Developer Tools For ML
    - [Weight And Biases](https://wandb.ai/site)
 
+<a name="master-computer-vision"></a>
 ## Master The Computer Vision — List of blogs and tutorials for diving deep into CV
  
   ### Beginner Level — Mathematics
