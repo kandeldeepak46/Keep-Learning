@@ -8,6 +8,7 @@
 | [MLOps: Model Deployment and Serving](#deployment) |[MLOps: Testing, Monitoring and Maintenance](#testing-monintoring) |
 | [Blogs — Be Better Everyday](#useful-blogs) | [MIT 6S191  Introduction to Deep Learning](#mit-deeplearning) |
 | [Master The Computer Vision — List of blogs and tutorials for diving deep into CV](#master-computer-vision)
+| [Introduction to Computer Science](#introduction-to-computer-science)
 
 ## MLOps Fundamentals
 <a name="software-engineering"></a>
@@ -204,6 +205,7 @@
     - [ ] [Lecture 15 | Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=15)
     - [ ] [Lecture 16 | Adversarial Examples and Adversarial Training](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=16)
 
+<a name = 'introduction-to-computer-science'></a>
 ## Introduction to Computer Science
 
 - [ ] [CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs10-spring2015-berkeley.html)
