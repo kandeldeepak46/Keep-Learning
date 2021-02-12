@@ -6,8 +6,8 @@
 | -------------------------------- | -------------------------------- |
 | [Software Engineering - ML](#software-engineering) | [MLOps Core](#mlops-core) |
 | [MLOps: Model Deployment and Serving](#deployment) |[MLOps: Testing, Monitoring and Maintenance](#testing-monintoring) |
-| [Blogs — Be Better Everyday](#useful-blogs) | [MIT 6S191  Introduction to Deep Learning](#mit-deeplearning) |
-| [Master The Computer Vision — List of blogs and tutorials for diving deep into CV](#master-computer-vision)
+| [Blogs — Be Better Everyday](#useful-blogs) | [MIT 6S191  Introduction to Deep Learning](#mit-deeplearning) | 
+| [Master The Computer Vision — List of blogs and tutorials for diving deep into CV](#master-computer-vision) | [Software Engineering — CRUX](#core-software-engineering)
 | [Introduction to Computer Science](#introduction-to-computer-science)
 
 ## MLOps Fundamentals
@@ -235,8 +235,8 @@
 - [ ] [Modern C++ Course (2018) - Bonn University](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)
 - [ ] [Modern C++ (Lecture & Tutorials, 2020, Vizzo & Stachniss) - University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA)
 
-
-## Software Engineering
+<a name = 'core-software-engineering'></a>
+## Software Engineering — CRUX
 
 - **Object Oriented Design**
 	- [Object-oriented Program Design and Software Engineering - Aduni](http://aduni.org/courses/java/index.php?view=cw)
