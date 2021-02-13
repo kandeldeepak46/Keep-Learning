@@ -178,8 +178,9 @@
 
 ## Video Tutorials — Deep Learning
 <a name = 'mit-deeplearning'></a>
-- [ ] [MIT 6S 191 | Deep Learning Lectures](http://introtodeeplearning.com/)
-    - [X] [Lecture I | Indroduction to Deep Leaning](https://www.youtube.com/watch?v=5tvmMX8r_OM)
+- [ ] [MIT 6S191 | Deep Learning Lectures](http://introtodeeplearning.com/)
+    - [X] [Lecture 1 | Indroduction to Deep Leaning](https://www.youtube.com/watch?v=5tvmMX8r_OM)
+    - [X] [Lecture 2 | Recurrent Neural Networks](https://www.youtube.com/watch?v=qjrad0V0uJE)
    
 
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
