@@ -147,7 +147,7 @@
    
   ### Control Your Code — Versioning
    - [X] [Version Control Via Git](https://medium.com/swlh/version-control-via-git-1b9cdab69ea6)
-   - [ ] [A Sucessful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/) 
+   - [X] [A Sucessful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/) 
 ### Developer Tools For ML
    - [Weight And Biases](https://wandb.ai/site)
 
