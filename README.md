@@ -181,6 +181,7 @@
 - [ ] [MIT 6S191 | Deep Learning Lectures](http://introtodeeplearning.com/)
     - [X] [Lecture 1 | Indroduction to Deep Leaning](https://www.youtube.com/watch?v=5tvmMX8r_OM)
     - [X] [Lecture 2 | Recurrent Neural Networks](https://www.youtube.com/watch?v=qjrad0V0uJE)
+    - [X] [lecture 3 | Convolutional Neural Network](https://www.youtube.com/watch?v=AjtX1N_VT9E)
    
 
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
