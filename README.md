@@ -31,7 +31,7 @@
 - [X] [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning)
 - [ ] [Udemy “Deployment of ML Models”](https://www.udemy.com/course/deployment-of-machine-learning-models/)
 - [X] [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
-- [ ] [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
+- [X] [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
 - [ ] [:rocket: Putting ML in Production](https://madewithml.com/courses/putting-ml-in-production/)
 - [ ] [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/)
 - [ ] [IBM ML Operationalization Starter Kit](https://github.com/ibm-cloud-architecture/refarch-ml-ops)
