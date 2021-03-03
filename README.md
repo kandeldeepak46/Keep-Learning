@@ -81,7 +81,7 @@
 <a name="mlops-infra"></a>
 ### MLOps: Infrastructure
 
-- [ ]  [MLOps Infrastructure Stack Canvas](https://miro.com/app/board/o9J_lfoc4Hg=/)
+- [X]  [MLOps Infrastructure Stack Canvas](https://miro.com/app/board/o9J_lfoc4Hg=/)
 - [ ] [Rise of the Canonical Stack in Machine Learning. How a Dominant New Software Stack Will Unlock the Next Generation of Cutting Edge AI Apps](https://towardsdatascience.com/rise-of-the-canonical-stack-in-machine-learning-724e7d2faa75)
 - [ ]  [AI Infrastructure Alliance. Building the canonical stack for AI/ML](https://ai-infrastructure.org/)
 - [ ] [Linux Foundation AI Foundation](https://wiki.lfai.foundation/)
