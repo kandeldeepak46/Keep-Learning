@@ -47,7 +47,7 @@
 - [ ] [What Does it Mean to Deploy a Machine Learning Model?](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)
 - [ ] [Software Interfaces for Machine Learning Deployment](https://mlinproduction.com/software-interfaces-for-machine-learning-deployment-deployment-series-02/)
 - [ ] [Batch Inference for Machine Learning Deployment](https://mlinproduction.com/batch-inference-for-machine-learning-deployment-deployment-series-03/)
-- [ ] [AWS Cost Optimization for ML Infrastructure - EC2 spend](https://blog.floydhub.com/aws-cost-optimization-for-ml-infra-ec2/)
+- [X] [AWS Cost Optimization for ML Infrastructure - EC2 spend](https://blog.floydhub.com/aws-cost-optimization-for-ml-infra-ec2/)
 - [X] [CI/CD for Machine Learning & AI](https://blog.paperspace.com/ci-cd-for-machine-learning-ai/)
 - [ ] [Itaú Unibanco: How we built a CI/CD Pipeline for machine learning with ***online training*** in Kubeflow](https://cloud.google.com/blog/products/ai-machine-learning/itau-unibanco-how-we-built-a-cicd-pipeline-for-machine-learning-with-online-training-in-kubeflow)
 - [ ] [101 For Serving ML Models](https://pakodas.substack.com/p/101-for-serving-ml-models-10217c9f0764)
