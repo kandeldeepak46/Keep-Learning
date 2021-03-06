@@ -182,6 +182,8 @@
     - [X] [Lecture 1 | Indroduction to Deep Leaning](https://www.youtube.com/watch?v=5tvmMX8r_OM)
     - [X] [Lecture 2 | Recurrent Neural Networks](https://www.youtube.com/watch?v=qjrad0V0uJE)
     - [X] [lecture 3 | Convolutional Neural Network](https://www.youtube.com/watch?v=AjtX1N_VT9E)
+    - [X] [Lexture 4 | Deep Generative Models](https://www.youtube.com/watch?v=BUNl0To1IVw)
+    - [X] [Lecture 5 | Reinforcement Learning](https://www.youtube.com/watch?v=93M1l_nrhpQ)
    
 
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
