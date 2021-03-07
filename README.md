@@ -187,6 +187,29 @@
     - [X] [Lexture 4 | Deep Generative Models](https://www.youtube.com/watch?v=BUNl0To1IVw)
     - [X] [Lecture 5 | Reinforcement Learning](https://www.youtube.com/watch?v=93M1l_nrhpQ)
    
+- [ ] [MIT: 18.06 Linear Algebra (Professor Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+	- [X] [1. The Geometry of Linear Equations](https://www.youtube.com/watch?v=J7DzL2_Na80) `0:39:49`
+	- [X] [2. Elimination with Matrices.](https://www.youtube.com/watch?v=QVKj3LADCnA) `0:47:41`
+	- [X] [3. Multiplication and Inverse Matrices](https://www.youtube.com/watch?v=FX4C-JpTFgY) `0:46:48`
+	- [X] [4. Factorization into A = LU](https://www.youtube.com/watch?v=MsIvs_6vC38) `0:48:05`
+	- [X] [5. Transposes, Permutations, Spaces R^n](https://www.youtube.com/watch?v=JibVXBElKL0) `0:47:41`
+	- [X] [6. Column Space and Nullspace](https://www.youtube.com/watch?v=8o5Cmfpeo6g) `0:46:01`
+	- [X] [9. Independence, Basis, and Dimension](https://www.youtube.com/watch?v=yjBerM5jWsc) `0:50:14`
+	- [X] [10. The Four Fundamental Subspaces](https://www.youtube.com/watch?v=nHlE7EgJFds) `0:49:20`
+	- [X] [11. Matrix Spaces; Rank 1; Small World Graphs](https://www.youtube.com/watch?v=2IdtqGM6KWU) `0:45:55`
+	- [X] [14. Orthogonal Vectors and Subspaces](https://www.youtube.com/watch?v=YzZUIYRCE38) `0:49:47`
+	- [X] [15. Projections onto Subspaces](https://www.youtube.com/watch?v=Y_Ac6KiQ1t0) `0:48:51`
+	- [X] [16. Projection Matrices and Least Squares](https://www.youtube.com/watch?v=osh80YCg_GM) `0:48:05`
+	- [X] [17. Orthogonal Matrices and Gram-Schmidt](https://www.youtube.com/watch?v=0MtwqhIwdrI) `0:49:09`
+	- [X] [21. Eigenvalues and Eigenvectors](https://www.youtube.com/watch?v=cdZnhQjJu4I) `0:51:22`
+	- [X] [22. Diagonalization and Powers of A](https://www.youtube.com/watch?v=13r9QY6cmjc) `0:51:50`
+	- [X] [24. Markov Matrices; Fourier Series](https://www.youtube.com/watch?v=lGGDIGizcQ0) `0:51:11`
+	- [X] [25. Symmetric Matrices and Positive Definiteness](https://www.youtube.com/watch?v=UCc9q_cAhho) `0:43:52`
+	- [X] [27. Positive Definite Matrices and Minima](https://www.youtube.com/watch?v=vF7eyJ2g3kU) `0:50:40`
+	- [X] [29. Singular Value Decomposition](https://www.youtube.com/watch?v=TX_vooSnhm8) `0:40:28`
+	- [X] [30. Linear Transformations and Their Matrices](https://www.youtube.com/watch?v=Ts3o2I8_Mxc) `0:49:27`
+	- [X] [31. Change of Basis; Image Compression](https://www.youtube.com/watch?v=0h43aV4aH7I) `0:50:13`
+	- [X] [33. Left and Right Inverses; Pseudoinverse](https://www.youtube.com/watch?v=Go2aLo7ZOlU) `0:41:52`
 
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
     - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
