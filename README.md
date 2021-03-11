@@ -67,7 +67,7 @@
 - [ ] [How to Test Machine Learning Code and Systems](https://eugeneyan.com/writing/testing-ml/) ([Accompanying code](https://github.com/eugeneyan/testing-ml))
 - [ ] [Wu, T., Dong, Y., Dong, Z., Singa, A., Chen, X. and Zhang, Y., 2020. Testing Artificial Intelligence System Towards Safety and Robustness: State of the Art. IAENG International Journal of Computer Science, 47(3).](http://www.iaeng.org/IJCS/issues_v47/issue_3/IJCS_47_3_13.pdf)
 - [ ] [Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/)
-- [ ] [A/B Testing Machine Learning Models](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)
+- [X] [A/B Testing Machine Learning Models](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)
 - [ ] [Data validation for machine learning. Polyzotis, N., Zinkevich, M., Roy, S., Breck, E. and Whang, S., 2019. Proceedings of Machine Learning and Systems](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
 - [ ] [Testing machine learning based systems: a systematic mapping](https://link.springer.com/content/pdf/10.1007/s10664-020-09881-0.pdf)
 - [ ] [Explainable Monitoring: Stop flying blind and monitor your AI](https://blog.fiddler.ai/2020/04/explainable-monitoring-stop-flying-blind-and-monitor-your-ai/)
