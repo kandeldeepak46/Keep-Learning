@@ -91,7 +91,7 @@
 ## Resources
 <!-- BLOG-POST-LIST:START -->
 - [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) — be used to with ML terms
-- [Deep Learning Book](https://www.deeplearningbook.org) — helloworld_for_deep_learning
+- [X] [Deep Learning Book](https://www.deeplearningbook.org) — helloworld_for_deep_learning
 - [Basic Image Processing](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html) — learn baics of <mark>image processing</mark> for  <mark>image-preprocessing</mark>.
  
 <!-- BLOG-POST-LIST:END -->
