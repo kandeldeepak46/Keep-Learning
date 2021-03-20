@@ -121,6 +121,7 @@
   
   ### Numpy
    - [X] [Numpy Basics](https://cs231n.github.io/python-numpy-tutorial/)
+   - [X] [Numpy Fundamentals](https://pabloinsente.github.io/intro-numpy-fundamentals)
   
   ### Python
    - [X] [Dive Into Python](https://diveintopython3.problemsolving.io/)
