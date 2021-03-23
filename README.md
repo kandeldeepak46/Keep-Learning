@@ -129,7 +129,7 @@
    - [X] [Python 101](https://python101.pythonlibrary.org/)
    - [X] [Object Oriented With Python](https://realpython.com/python3-object-oriented-programming/) — Wholesome Blog For Learning OOP with Python 3
    - [X] [Code Refactoring for Software Engineering](https://realpython.com/python-refactoring/)
-   - [ ] [Guide to Python Design Patterns](https://python-patterns.guide/)
+   - [X] [Guide to Python Design Patterns](https://python-patterns.guide/)
    - [X] [Popular Python Design Patterns](https://refactoring.guru/design-patterns/python) - Explicitely Python
   
   ### Be Pythonic
