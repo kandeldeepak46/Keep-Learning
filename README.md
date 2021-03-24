@@ -178,7 +178,7 @@
    - [ ] [Mixtures and Expectation-Maximization Algorithm](https://www.youtube.com/watch?v=Q1oqJSgp_Dk)
    - [ ] [Introductory level Statistical Learning](https://www.coursera.org/specializations/statistics)
    - [ ] [Hidden Markov Models](https://www.youtube.com/watch?v=D_RIe5bd3hk)
-   - [ ] [Support Vector Machines](https://www.youtube.com/watch?v=_PwhiWxHK8o)
+   - [X] [Support Vector Machines](https://www.youtube.com/watch?v=_PwhiWxHK8o)
    - [ ] [Genetic Algorithms](https://www.youtube.com/watch?v=kHyNqSnzP8Y)
    - [ ] [Bayesian Networks](https://www.coursera.org/learn/probabilistic-graphical-models)
 
