@@ -180,7 +180,7 @@
    - [ ] [Hidden Markov Models](https://www.youtube.com/watch?v=D_RIe5bd3hk)
    - [X] [Support Vector Machines](https://www.youtube.com/watch?v=_PwhiWxHK8o)
    - [ ] [Genetic Algorithms](https://www.youtube.com/watch?v=kHyNqSnzP8Y)
-   - [ ] [Bayesian Networks](https://www.coursera.org/learn/probabilistic-graphical-models)
+   - [X] [Bayesian Networks](https://www.coursera.org/learn/probabilistic-graphical-models)
 
 ## Video Tutorials — Deep Learning
 <a name = 'mit-deeplearning'></a>
