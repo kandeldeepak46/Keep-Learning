@@ -9,7 +9,7 @@
 | [MLOps: Model Deployment and Serving](#deployment) |[MLOps: Testing, Monitoring and Maintenance](#testing-monintoring) |
 | [Blogs — Be Better Everyday](#useful-blogs) | [MIT 6S191  Introduction to Deep Learning](#mit-deeplearning) | 
 | [Master The Computer Vision — List of blogs and tutorials for diving deep into CV](#master-computer-vision) | [Software Engineering — CRUX](#core-software-engineering)
-| [Introduction to Computer Science](#introduction-to-computer-science)
+| [Introduction to Computer Science](#introduction-to-computer-science) | [Dive Into Deep Learning](#dive-into-deep-learning)
 
 ## MLOps Fundamentals
 <a name="software-engineering"></a>
@@ -156,6 +156,11 @@
    - [X] [Everything About Git & Gitbash](https://www.atlassian.com/git/tutorials/git-bash)
 ### Developer Tools For ML
    - [Weight And Biases](https://wandb.ai/site)
+
+<a name="dive-into-deep-learning"></a>
+### Dive Into Deep learning
+   - [X] [Introduction](https://d2l.ai/chapter_introduction/index.html)
+   - [X] [Preliminaries](https://d2l.ai/chapter_preliminaries/index.html)
 
 <a name="master-computer-vision"></a>
 ## Master The Computer Vision — List of blogs and tutorials for diving deep into CV
