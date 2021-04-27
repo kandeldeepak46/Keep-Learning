@@ -254,11 +254,12 @@
     - [ ] [Lecture 14 | Deep Reinforcement Learning](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=14)
     - [ ] [Lecture 15 | Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=15)
     - [ ] [Lecture 16 | Adversarial Examples and Adversarial Training](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=16)
+
 - [ ] [Learn eXtreme Gradient Boosting](https://xgboost.readthedocs.io/en/latest/)
     - [X] [Part I | Introduction and Regression with XGBoost](https://www.youtube.com/watch?v=OtD8wVaFm6E)
     - [ ] [Part II | Classification with XGboost](https://www.youtube.com/watch?v=8b1JEDvenQU)
     - [ ] [Part III | Mathematical Details of XGBoost](https://www.youtube.com/watch?v=ZVFeW798-2I)
-    - [ ] [Part IV | Cool Optimization with XXGBoost](https://www.youtube.com/watch?v=oRrKeUCEbq8)
+    - [ ] [Part IV | Cool Optimization with XGBoost](https://www.youtube.com/watch?v=oRrKeUCEbq8)
 <a name = 'introduction-to-computer-science'></a>
 ## Introduction to Computer Science
 
