@@ -258,9 +258,9 @@
 
 - [ ] [Learn eXtreme Gradient Boosting](https://xgboost.readthedocs.io/en/latest/) - State-of-art ML Algorithm for Kaggle Contest till date.
     - [X] [Part I | Introduction and Regression with XGBoost](https://www.youtube.com/watch?v=OtD8wVaFm6E)
-    - [ ] [Part II | Classification with XGboost](https://www.youtube.com/watch?v=8b1JEDvenQU)
-    - [ ] [Part III | Mathematical Details of XGBoost](https://www.youtube.com/watch?v=ZVFeW798-2I)
-    - [ ] [Part IV | Cool Optimization with XGBoost](https://www.youtube.com/watch?v=oRrKeUCEbq8)
+    - [X] [Part II | Classification with XGboost](https://www.youtube.com/watch?v=8b1JEDvenQU)
+    - [X] [Part III | Mathematical Details of XGBoost](https://www.youtube.com/watch?v=ZVFeW798-2I)
+    - [X] [Part IV | Cool Optimization with XGBoost](https://www.youtube.com/watch?v=oRrKeUCEbq8)
 <a name = 'introduction-to-computer-science'></a>
 ## Introduction to Computer Science
 
