@@ -132,6 +132,7 @@
    - [X] [Code Refactoring for Software Engineering](https://realpython.com/python-refactoring/)
    - [X] [Guide to Python Design Patterns](https://python-patterns.guide/)
    - [X] [Popular Python Design Patterns](https://refactoring.guru/design-patterns/python) - Explicitely Python
+   - [X] [Learn Python By Doing Python](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
   
   ### Be Pythonic
    - [X] [Writing Pythonic Code](https://dbader.org/blog/writing-pythonic-code) — Transforming from messy code to beautiful pythonic code
