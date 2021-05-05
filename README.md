@@ -170,7 +170,7 @@
   ### Beginner Level — Mathematics
    - [X] [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
    - [X] [Singular Value Decomposition](https://www.youtube.com/watch?v=sJV0QyHoRio)
-   - [ ] [Basic Pattern Recognition](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-622j-pattern-recognition-and-analysis-fall-2006/)
+   - [X] [Basic Pattern Recognition](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-622j-pattern-recognition-and-analysis-fall-2006/)
    - [X] [Reduce The Dimesnion — PCA ](https://www.youtube.com/watch?v=H0HjNuNvFVI)
    - [X] [Guide To Kalman Filtering](https://www.youtube.com/watch?v=d0D3VwBh5UQ)
    - [X] [Fourtier Transforms](https://www.youtube.com/watch?v=hVOA8VtKLgk&list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et&index=1)
