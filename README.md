@@ -197,7 +197,8 @@
     - [X] [lecture 3 | Convolutional Neural Network](https://www.youtube.com/watch?v=AjtX1N_VT9E)
     - [X] [Lexture 4 | Deep Generative Models](https://www.youtube.com/watch?v=BUNl0To1IVw)
     - [X] [Lecture 5 | Reinforcement Learning](https://www.youtube.com/watch?v=93M1l_nrhpQ)
-   
+
+- [ ] [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20210423-mlep-1-coursera-partner-promo-tool-mlep-launch)]
 - [ ] [MIT: 18.06 Linear Algebra (Professor Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 	- [X] [1. The Geometry of Linear Equations](https://www.youtube.com/watch?v=J7DzL2_Na80) `0:39:49`
 	- [X] [2. Elimination with Matrices.](https://www.youtube.com/watch?v=QVKj3LADCnA) `0:47:41`
