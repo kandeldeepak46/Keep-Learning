@@ -199,7 +199,10 @@
     - [X] [Lecture 5 | Reinforcement Learning](https://www.youtube.com/watch?v=93M1l_nrhpQ)
 
 - [ ] [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20210423-mlep-1-coursera-partner-promo-tool-mlep-launch) — COURSERA SPECIALIZATION
-    - [X] [Week 1 | Machine Learning Project Life Cycle](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/lecture/uoVS1/welcome)
+    - [X] [Course I | Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/home/welcome)
+    - [ ] [Course II | Machine Learning Data Lifecycle in Production](https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production/home/welcome)
+    - [ ] [Course III | Machine Learning Modeling Pipelines in Production](https://www.coursera.org/learn/machine-learning-modeling-pipelines-in-production/home/welcome)
+    - [ ] [Course IV | Deploying Machine Learning Models in Production](https://www.coursera.org/learn/deploying-machine-learning-models-in-production/home/welcome)
         
 - [ ] [MIT: 18.06 Linear Algebra (Professor Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 	- [X] [1. The Geometry of Linear Equations](https://www.youtube.com/watch?v=J7DzL2_Na80) `0:39:49`
