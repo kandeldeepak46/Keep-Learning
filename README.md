@@ -32,7 +32,7 @@
 - [ ] [Udemy “Deployment of ML Models”](https://www.udemy.com/course/deployment-of-machine-learning-models/)
 - [X] [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 - [X] [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
-- [ ] [:rocket: Putting ML in Production](https://madewithml.com/courses/putting-ml-in-production/)
+- [X] [:rocket: Putting ML in Production](https://madewithml.com/courses/putting-ml-in-production/)
 - [ ] [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/)
 - [X] [IBM ML Operationalization Starter Kit](https://github.com/ibm-cloud-architecture/refarch-ml-ops)
 - [X] [Productize ML. A self-study guide for Developers and Product Managers building Machine Learning products.](https://productizeml.gitbook.io/productize-ml/)
