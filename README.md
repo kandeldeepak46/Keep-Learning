@@ -42,7 +42,7 @@
 <a name="deployment"></a>
  ### MLOps: Model Deployment and Serving
 
-- [ ] [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
+- [X] [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
 - [ ] [Deploying R Models with MLflow and Docker](https://mdneuzerling.com/post/deploying-r-models-with-mlflow-and-docker/)
 - [X] [What Does it Mean to Deploy a Machine Learning Model?](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)
 - [X] [Software Interfaces for Machine Learning Deployment](https://mlinproduction.com/software-interfaces-for-machine-learning-deployment-deployment-series-02/)
