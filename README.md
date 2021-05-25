@@ -162,7 +162,7 @@
 <a name="dive-into-deep-learning"></a>
 ### Dive Into Deep learning
    - [X] [Introduction](https://d2l.ai/chapter_introduction/index.html)
-   - [X] [Preliminaries](https://d2l.ai/chapter_preliminaries/index.html)
+   - [ ] [Preliminaries](https://d2l.ai/chapter_preliminaries/index.html)
 
 <a name="master-computer-vision"></a>
 ## Master The Computer Vision — List of blogs and tutorials for diving deep into CV
