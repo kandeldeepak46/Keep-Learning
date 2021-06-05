@@ -15,7 +15,7 @@
 <a name="software-engineering"></a>
 ### Software Engineering 
 
-- [ ] [The Twelve Factors](https://12factor.net/)
+- [X] [The Twelve Factors](https://12factor.net/)
 - [ ] [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 - [ ] [Book "The DevOps Handbook" by Gene Kim, et al. 2016](https://itrevolution.com/book/the-devops-handbook/)
 - [ ] [State of DevOps 2019](https://research.google/pubs/pub48455/)
