@@ -75,7 +75,7 @@
 - [ ] [Evidently AI. Insights on doing machine learning in production. (Vendor blog.)](https://evidentlyai.com/blog)
 - [ ] [The definitive guide to comprehensively monitoring your AI](https://www.monalabs.io/mona-blog/definitiveguidetomonitorai)
 - [X] [Introduction to Unit Testing for Machine Learning](https://themlrebellion.com/blog/Introduction-To-Unit-Testing-Machine-Learning/)
-- [ ] [Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
+- [X] [Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
 - [X] Test-Driven Development in MLOps [Part 1](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec)
 
 <a name="mlops-infra"></a>
