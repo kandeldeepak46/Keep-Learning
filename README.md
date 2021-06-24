@@ -36,7 +36,7 @@
 - [X] [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/)
 - [X] [IBM ML Operationalization Starter Kit](https://github.com/ibm-cloud-architecture/refarch-ml-ops)
 - [X] [Productize ML. A self-study guide for Developers and Product Managers building Machine Learning products.](https://productizeml.gitbook.io/productize-ml/)
-- [X] [MLOps (Machine Learning Operations) Fundamentals on GCP](https://www.coursera.org/learn/mlops-fundamentals)
+- [ ] [MLOps (Machine Learning Operations) Fundamentals on GCP](https://www.coursera.org/learn/mlops-fundamentals)
 - [ ] [ML full Stack preparation](https://www.confetti.ai/)
 
 <a name="deployment"></a>
