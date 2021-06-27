@@ -98,6 +98,7 @@
 - [X] [Magic Behind, Gaussian Naive Bias Classification Algorithm](https://www.jeremyjordan.me/naive-bayes-classification/)
 - [X] [The Theory and Code Behind K-Nearest Neighbors](https://www.jeremyjordan.me/k-nearest-neighbors/)
 - [X] [Learn About Decision Trees — Working and Methods in Layman's Term With Code](https://www.jeremyjordan.me/decision-trees/)
+- [X] [Get Used With Logistic Regression — With Code and Math Running Behind This Algorithm](https://www.jeremyjordan.me/logistic-regression/)
 <!-- BLOG-POST-LIST:END -->
 <a name="useful-blogs"></a>
 
