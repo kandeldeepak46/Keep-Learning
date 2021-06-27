@@ -96,6 +96,7 @@
 - [X] [Xgboost with Different Categorical Encoding Methods](https://songxia-sophia.medium.com/two-machine-learning-algorithms-to-predict-xgboost-neural-network-with-entity-embedding-caac68717dea)
 - [X] [Linear Regression | Lasso Regression | Ridge Regession](https://machinelearningcompass.com/machine_learning_models/lasso_regression/) — details of regression concepts with thoery and code.
 - [X] [Magic Behind, Gaussian Naive Bias Classification Algorithm](https://www.jeremyjordan.me/naive-bayes-classification/)
+- [X] [The Theory and Code Behind K-Nearest Neighbors](https://www.jeremyjordan.me/k-nearest-neighbors/)
 <!-- BLOG-POST-LIST:END -->
 <a name="useful-blogs"></a>
 
