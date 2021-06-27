@@ -95,6 +95,7 @@
 - [X] [Basic Image Processing](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html) — learn baics of <mark>image processing</mark> for  <mark>image-preprocessing</mark>.
 - [X] [Xgboost with Different Categorical Encoding Methods](https://songxia-sophia.medium.com/two-machine-learning-algorithms-to-predict-xgboost-neural-network-with-entity-embedding-caac68717dea)
 - [X] [Linear Regression | Lasso Regression | Ridge Regession](https://machinelearningcompass.com/machine_learning_models/lasso_regression/) — details of regression concepts with thoery and code.
+- [X] [Magic Behind, Gaussian Naive Bias Classification Algorithm](https://www.jeremyjordan.me/naive-bayes-classification/)
 <!-- BLOG-POST-LIST:END -->
 <a name="useful-blogs"></a>
 
@@ -112,7 +113,7 @@
    
    - [X] [Generative Pre-trained Transformer 3 (GPT-3)](https://in.springboard.com/blog/openai-gpt-3/) — revolutionary NLP model — 515 times more powerful than BERT
    - [X] [XGBoost Tutorials](https://xgboost.readthedocs.io/en/latest/tutorials/index.html) — Docs from the creater themselves
-   - [X] [Magic Behind, Gaussian Naive Bias Classification Algorithm](https://www.jeremyjordan.me/naive-bayes-classification/)
+   
   ### Machinne Learning In Production
    - [X] [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
    - [X] [Rules of Machine Learning : Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
