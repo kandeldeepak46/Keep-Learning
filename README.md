@@ -5,7 +5,7 @@
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
 | [Software Engineering - ML](#software-engineering) | [MLOps Core](#mlops-core) |
-| [MLOps: Infrastructure](#mlops-infra)
+| [MLOps: Infrastructure](#mlops-infra) | [Blog Resources For Machine Learning](#resources)
 | [MLOps: Model Deployment and Serving](#deployment) |[MLOps: Testing, Monitoring and Maintenance](#testing-monintoring) |
 | [Blogs — Be Better Everyday](#useful-blogs) | [MIT 6S191  Introduction to Deep Learning](#mit-deeplearning) | 
 | [Master The Computer Vision — List of blogs and tutorials for diving deep into CV](#master-computer-vision) | [Software Engineering — CRUX](#core-software-engineering)
@@ -88,7 +88,8 @@
 - [X]  ML Infrastructure Tools for Production | [Part 1 — Production ML — The Final Stage of the Model Workflow](https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb) | [Part 2 — Model Deployment and Serving](https://towardsdatascience.com/ml-infrastructure-tools-for-production-part-2-model-deployment-and-serving-fcfc75c4a362)
 - [X] [The MLOps Stack Template (by valohai)](https://valohai.com/blog/the-mlops-stack/)
 
-## Resources
+<a name='resources'></a>
+## Resources — Popular Modern & Traditional Machine Learning Algorithms — Theory — Math — Implementation
 <!-- BLOG-POST-LIST:START -->
 - [ ] [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) — be used to with ML terms
 - [X] [Deep Learning Book](https://www.deeplearningbook.org) — helloworld_for_deep_learning
