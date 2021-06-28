@@ -147,20 +147,20 @@
   
   ### Modern Machine Learning With Scikit-Learn
   - [X] [Article: Stacking made easy with Sklearn](https://www.maartengrootendorst.com/blog/stacking/)
-  - [X] [Article: Curve Fitting With Python](https://machinelearningmastery.com/curve-fitting-with-python/)
-  - [X] [Article: A Guide to Calibration Plots in Python](https://changhsinlee.com/python-calibration-plot/)
-  - [X] [Calmcode: human-learn](https://calmcode.io/human-learn/introduction.html)
-  - [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
-  - [X] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
+  - [ ] [Article: Curve Fitting With Python](https://machinelearningmastery.com/curve-fitting-with-python/)
+  - [ ] [Article: A Guide to Calibration Plots in Python](https://changhsinlee.com/python-calibration-plot/)
+  - [ ] [Calmcode: human-learn](https://calmcode.io/human-learn/introduction.html)
+  - [ ] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+  - [ ] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
   - [ ] [Datacamp: Introduction to Linear Modeling in Python](https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python)
-  - [X] [Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
+  - [ ] [Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
   - [ ] [Datacamp: Generalized Linear Models in Python](https://www.datacamp.com/courses/generalized-linear-models-in-python)
-  - [X] [Notebook: scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)
-  - [X] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
+  - [ ] [Notebook: scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)
+  - [ ] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
   - [ ] [Video: human learn](https://calmcode.io/human-learn/introduction.html)
-  - [X] [Youtube: dabl: Automatic Machine Learning with a Human in the Loop](https://www.youtube.com/watch?v=TQnxH90PqFc&list=PLYx7XA2nY5GejOB1lsvriFeMytD1-VS1B&index=2&t=0s) `00:25:43`
-  - [X] [Youtube: Multilabel and Multioutput Classification -Machine Learning with TensorFlow & scikit-learn on Python](https://www.youtube.com/watch?v=bDdjebakjbA)
-  - [X] [Youtube: DABL: Automatic machine learning with a human in the loop- AI Latim American SumMIT Day 1](https://youtu.be/7pykC5m24Z0?list=LL)
+  - [ ] [Youtube: dabl: Automatic Machine Learning with a Human in the Loop](https://www.youtube.com/watch?v=TQnxH90PqFc&list=PLYx7XA2nY5GejOB1lsvriFeMytD1-VS1B&index=2&t=0s) `00:25:43`
+  - [ ] [Youtube: Multilabel and Multioutput Classification -Machine Learning with TensorFlow & scikit-learn on Python](https://www.youtube.com/watch?v=bDdjebakjbA)
+  - [ ] [Youtube: DABL: Automatic machine learning with a human in the loop- AI Latim American SumMIT Day 1](https://youtu.be/7pykC5m24Z0?list=LL)
   
   ### Pandas — Be Able to Manipulate Data 
    - [X] [Learn Basic EDA with Pandas](https://realpython.com/pandas-python-explore-dataset/)
