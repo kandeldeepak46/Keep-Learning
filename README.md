@@ -147,7 +147,7 @@
   
   ### Modern Machine Learning With Scikit-Learn
   - [X] [Article: Stacking made easy with Sklearn](https://www.maartengrootendorst.com/blog/stacking/)
-  - [ ] [Article: Curve Fitting With Python](https://machinelearningmastery.com/curve-fitting-with-python/)
+  - [X] [Article: Curve Fitting With Python](https://machinelearningmastery.com/curve-fitting-with-python/)
   - [ ] [Article: A Guide to Calibration Plots in Python](https://changhsinlee.com/python-calibration-plot/)
   - [ ] [Calmcode: human-learn](https://calmcode.io/human-learn/introduction.html)
   - [ ] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
