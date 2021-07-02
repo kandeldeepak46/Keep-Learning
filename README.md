@@ -193,7 +193,7 @@
    - [ ] [Preliminaries](https://d2l.ai/chapter_preliminaries/index.html)
 
 <a name="master-computer-vision"></a>
-## Master The Computer Vision — List of blogs and tutorials for diving deep into CV
+## Master The Computer Vision — List of blogs and tutorials for diving deep into world of intelligent vision
  
   ### Beginner Level — Mathematics
    - [X] [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
