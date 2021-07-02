@@ -125,7 +125,7 @@
    - [X] [Rules of Machine Learning : Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
   
-  ### Regex
+  ### Regular Expressions — Irksome, Yet Useful
    - [X] [Learn Regex](https://pymotw.com/3/re/)
   
   ### Numpy
