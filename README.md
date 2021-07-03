@@ -130,11 +130,11 @@
    - [X] [Learn Regex](https://pymotw.com/3/re/)
    - [ ] [Regex Made Easy With Real Python](https://realpython.com/regex-python/)
   
-  ### Numpy
+  ### Numpy — Numerical Python
    - [X] [Numpy Basics](https://cs231n.github.io/python-numpy-tutorial/)
    - [X] [Numpy Fundamentals](https://pabloinsente.github.io/intro-numpy-fundamentals)
   
-  ### Python
+  ### Core Python
    - [X] [Dive Into Python](https://diveintopython3.problemsolving.io/)
    - [X] [Learn About Python's Pathlib](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html) — No Really, Python's Pathlib is Great
    - [X] [Python 101](https://python101.pythonlibrary.org/)
@@ -147,6 +147,7 @@
   ### Be Pythonic
    - [X] [Writing Pythonic Code](https://dbader.org/blog/writing-pythonic-code) — Transforming from messy code to beautiful pythonic code
    - [X] [ Write More Pythonic Code](https://realpython.com/learning-paths/writing-pythonic-code/)
+   - [X] [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
   
   
   ### Modern Machine Learning With Scikit-Learn
