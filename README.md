@@ -148,6 +148,7 @@
    - [X] [Writing Pythonic Code](https://dbader.org/blog/writing-pythonic-code) — Transforming from messy code to beautiful pythonic code
    - [X] [ Write More Pythonic Code](https://realpython.com/learning-paths/writing-pythonic-code/)
    - [X] [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+   - [X] [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
   
   
   ### Modern Machine Learning With Scikit-Learn
