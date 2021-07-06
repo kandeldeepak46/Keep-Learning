@@ -109,7 +109,7 @@
 <!-- BLOG-POST-LIST:START -->
   ### Explore With Papers
   - [X] [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) — Word2Vec
-  - [ ] [eXtreme Gradient Boosting](https://arxiv.org/abs/1603.02754) — A Scalable Tree Boosting System
+  - [X] [eXtreme Gradient Boosting](https://arxiv.org/abs/1603.02754) — A Scalable Tree Boosting System
   
   ### Deep Learning
    - [X] [Creating Neural Network From Scratch](https://heartbeat.fritz.ai/building-a-neural-network-from-scratch-using-python-part-1-6d399df8d432) — Step By Step With Pythonic Code
