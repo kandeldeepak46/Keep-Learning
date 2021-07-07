@@ -260,7 +260,7 @@
 
 - [ ] [Fast.ai: Deep Learning for Coder (2020)](https://course.fast.ai/)
     - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
-    - [ ] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
+    - [X] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
     - [ ] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
     - [ ] [Lesson 4](https://course.fast.ai/videos/?lesson=4)
     - [ ] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
