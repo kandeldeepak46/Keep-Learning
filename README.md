@@ -161,7 +161,7 @@
   - [ ] [Datacamp: Introduction to Linear Modeling in Python](https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python)
   - [ ] [Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
   - [ ] [Datacamp: Generalized Linear Models in Python](https://www.datacamp.com/courses/generalized-linear-models-in-python)
-  - [ ] [Notebook: scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)
+  - [X] [Notebook: scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)
   - [ ] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
   - [ ] [Video: human learn](https://calmcode.io/human-learn/introduction.html)
   - [ ] [Youtube: dabl: Automatic Machine Learning with a Human in the Loop](https://www.youtube.com/watch?v=TQnxH90PqFc&list=PLYx7XA2nY5GejOB1lsvriFeMytD1-VS1B&index=2&t=0s) `00:25:43`
