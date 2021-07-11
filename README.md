@@ -165,7 +165,7 @@
   - [ ] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
   - [ ] [Video: human learn](https://calmcode.io/human-learn/introduction.html)
   - [ ] [Youtube: dabl: Automatic Machine Learning with a Human in the Loop](https://www.youtube.com/watch?v=TQnxH90PqFc&list=PLYx7XA2nY5GejOB1lsvriFeMytD1-VS1B&index=2&t=0s) `00:25:43`
-  - [ ] [Youtube: Multilabel and Multioutput Classification -Machine Learning with TensorFlow & scikit-learn on Python](https://www.youtube.com/watch?v=bDdjebakjbA)
+  - [X] [Youtube: Multilabel and Multioutput Classification -Machine Learning with TensorFlow & scikit-learn on Python](https://www.youtube.com/watch?v=bDdjebakjbA)
   - [ ] [Youtube: DABL: Automatic machine learning with a human in the loop- AI Latim American SumMIT Day 1](https://youtu.be/7pykC5m24Z0?list=LL)
   
   ### Pandas — Be Able to Manipulate Data 
