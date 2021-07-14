@@ -266,7 +266,7 @@
     - [ ] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
     - [ ] [Lesson 6](https://course.fast.ai/videos/?lesson=6)
     - [ ] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
-    - [ ] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
+    - [X] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
     
 - [X] [Full Stack Deep Learning](https://course.fullstackdeeplearning.com)
     - [X] [Setting Up Machine learning Projects](https://course.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects)
