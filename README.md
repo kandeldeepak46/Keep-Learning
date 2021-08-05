@@ -19,7 +19,7 @@
 - [X] [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 - [ ] [Book "The DevOps Handbook" by Gene Kim, et al. 2016](https://itrevolution.com/book/the-devops-handbook/)
 - [X] [State of DevOps 2019](https://research.google/pubs/pub48455/)
-- [ ] [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml)
+- [X] [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml)
 - [X] [School of SRE](https://linkedin.github.io/school-of-sre/)
 
 <a name="mlops-core"></a>
@@ -29,7 +29,7 @@
 - [X] [MLOps SIG Specification](https://github.com/tdcox/mlops-roadmap/blob/master/MLOpsRoadmap2020.md)
 - [X] [ML in Production](http://mlinproduction.com/)
 - [X] [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning)
-- [ ] [Udemy “Deployment of ML Models”](https://www.udemy.com/course/deployment-of-machine-learning-models/)
+- [X] [Udemy “Deployment of ML Models”](https://www.udemy.com/course/deployment-of-machine-learning-models/)
 - [X] [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 - [X] [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
 - [X] [:rocket: Putting ML in Production](https://madewithml.com/courses/putting-ml-in-production/)
