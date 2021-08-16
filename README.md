@@ -63,7 +63,7 @@
 
 - [ ] [Building dashboards for operational visibility (AWS)](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
 - [X] [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
-- [ ] [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
+- [X] [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
 - [X] [Unit Testing Data: What is it and how do you do it?](https://winderresearch.com/unit-testing-data-what-is-it-and-how-do-you-do-it/)
 - [ ] [How to Test Machine Learning Code and Systems](https://eugeneyan.com/writing/testing-ml/) ([Accompanying code](https://github.com/eugeneyan/testing-ml))
 - [ ] [Wu, T., Dong, Y., Dong, Z., Singa, A., Chen, X. and Zhang, Y., 2020. Testing Artificial Intelligence System Towards Safety and Robustness: State of the Art. IAENG International Journal of Computer Science, 47(3).](http://www.iaeng.org/IJCS/issues_v47/issue_3/IJCS_47_3_13.pdf)
