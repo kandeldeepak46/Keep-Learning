@@ -206,7 +206,7 @@
    - [X] [Fourtier Transforms](https://www.youtube.com/watch?v=hVOA8VtKLgk&list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et&index=1)
    
    ### Beginner Level — Image Procesing 
-   - [ ] [Online Course offered by Duke University on Coursera](https://www.coursera.org/learn/image-processing)
+   - [X] [Online Course offered by Duke University on Coursera](https://www.coursera.org/learn/image-processing)
    - [X] [Image Processing With Scipy and Numpy](https://scipy-lectures.org/advanced/image_processing/)
    
    ### Advanced Level
