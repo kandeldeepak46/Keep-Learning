@@ -128,7 +128,7 @@
   ### Regular Expressions — Irksome, Yet Useful
    - [X] [Regular Expression](https://docs.python.org/3/library/re.html) — Official Python Regex Module
    - [X] [Learn Regex](https://pymotw.com/3/re/)
-   - [ ] [Regex Made Easy With Real Python](https://realpython.com/regex-python/)
+   - [X] [Regex Made Easy With Real Python](https://realpython.com/regex-python/)
   
   ### Numpy — Numerical Python
    - [X] [Numpy Basics](https://cs231n.github.io/python-numpy-tutorial/)
