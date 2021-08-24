@@ -213,7 +213,7 @@
    - [X] [Linear Discriminant Analysis](https://www.youtube.com/watch?v=aSyQqHY4Vqc)
    - [X] [Probability, Bayes rule, Maximum Likelihood, MAP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
    - [ ] [Mixtures and Expectation-Maximization Algorithm](https://www.youtube.com/watch?v=Q1oqJSgp_Dk)
-   - [ ] [Introductory level Statistical Learning](https://www.coursera.org/specializations/statistics)
+   - [X] [Introductory level Statistical Learning](https://www.coursera.org/specializations/statistics)
    - [ ] [Hidden Markov Models](https://www.youtube.com/watch?v=D_RIe5bd3hk)
    - [X] [Support Vector Machines](https://www.youtube.com/watch?v=_PwhiWxHK8o)
    - [ ] [Genetic Algorithms](https://www.youtube.com/watch?v=kHyNqSnzP8Y)
