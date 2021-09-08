@@ -232,7 +232,7 @@
     - [X] [Course I | Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/home/welcome)
     - [ ] [Course II | Machine Learning Data Lifecycle in Production](https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production/home/welcome)
     - [ ] [Course III | Machine Learning Modeling Pipelines in Production](https://www.coursera.org/learn/machine-learning-modeling-pipelines-in-production/home/welcome)
-    - [ ] [Course IV | Deploying Machine Learning Models in Production](https://www.coursera.org/learn/deploying-machine-learning-models-in-production/home/welcome)
+    - [X] [Course IV | Deploying Machine Learning Models in Production](https://www.coursera.org/learn/deploying-machine-learning-models-in-production/home/welcome)
         
 - [X] [MIT: 18.06 Linear Algebra (Professor Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 	- [X] [1. The Geometry of Linear Equations](https://www.youtube.com/watch?v=J7DzL2_Na80) `0:39:49`
