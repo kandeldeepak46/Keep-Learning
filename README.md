@@ -320,7 +320,7 @@
 - [ ] [Introduction to Problem Solving and Programming - IIT Kanpur](https://nptel.ac.in/courses/106104074/)
 - [ ] [Introduction to programming in C - IIT Kanpur](https://nptel.ac.in/courses/106104128/)
 - [X] [Programming in C++ - IIT Kharagpur](https://nptel.ac.in/courses/106105151/)
-- [ ] [Python Boot Camp Fall 2016 - Berkeley Institute for Data Science (BIDS)](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9)
+- [X] [Python Boot Camp Fall 2016 - Berkeley Institute for Data Science (BIDS)](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9)
 - [ ] [CS 101 - Introduction to Computer Science - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmjFQ2w9j05WDX8Jtg5RXWW)
 - [X] [6.00SC - Introduction to Computer Science and Programming (Spring 2011) - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 - [ ] [6.00	- Introduction to Computer Science and Programming (Fall 2008) - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/)
