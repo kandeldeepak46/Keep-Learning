@@ -218,7 +218,60 @@
    - [X] [Support Vector Machines](https://www.youtube.com/watch?v=_PwhiWxHK8o)
    - [ ] [Genetic Algorithms](https://www.youtube.com/watch?v=kHyNqSnzP8Y)
    - [X] [Bayesian Networks](https://www.coursera.org/learn/probabilistic-graphical-models)
-
+## Theory Of Classical Machine Learning 
+- [ ] [StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+	- [ ] [StatQuest: Fitting a line to data, aka least squares, aka linear regression.](https://www.youtube.com/watch?v=PaFPbb66DxQ) `0:09:21`
+	- [ ] [StatQuest: Linear Models Pt.1 - Linear Regression](https://www.youtube.com/watch?v=nk2CQITm_eo) `0:27:26`
+	- [ ] [StatQuest: StatQuest: Linear Models Pt.2 - t-tests and ANOVA](https://www.youtube.com/watch?v=NF5_btOaCig) `0:11:37`
+	- [ ] [StatQuest: Odds and Log(Odds), Clearly Explained!!!](https://www.youtube.com/watch?v=ARfXDSkQf1Y) `0:11:30`
+	- [X] [StatQuest: Odds Ratios and Log(Odds Ratios), Clearly Explained!!!](https://www.youtube.com/watch?v=8nm0G-1uJzA) `0:16:20`
+	- [X] [StatQuest: Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8) `0:08:47`
+	- [X] [Logistic Regression Details Pt1: Coefficients](https://www.youtube.com/watch?v=vN5cNN2-HWE) `0:19:02`
+	- [X] [Logistic Regression Details Pt 2: Maximum Likelihood](https://www.youtube.com/watch?v=BfKanl1aSG0) `0:10:23`
+	- [X] [Logistic Regression Details Pt 3: R-squared and p-value](https://www.youtube.com/watch?v=xxFYro8QuXA) `0:15:25`
+	- [X] [Saturated Models and Deviance](https://www.youtube.com/watch?v=9T0wlKdew6I) `0:18:39`
+	- [X] [Deviance Residuals](https://www.youtube.com/watch?v=JC56jS2gVUE) `0:06:18`
+	- [X] [Regularization Part 1: Ridge (L2) Regression](https://www.youtube.com/watch?v=Q81RR3yKn30) `0:20:26`
+	- [X] [Regularization Part 2: Lasso (L1) Regression](https://www.youtube.com/watch?v=NGf0voTMlcs) `0:08:19`
+	- [X] [Ridge vs Lasso Regression, Visualized!!!](https://www.youtube.com/watch?v=Xm2C_gTAl8c) `0:09:05`
+	- [X] [Regularization Part 3: Elastic Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) `0:05:19`
+	- [X] [StatQuest: Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ) `0:21:57`
+	- [X] [StatQuest: PCA main ideas in only 5 minutes!!!](https://www.youtube.com/watch?v=HMOI_lkzW08) `0:06:04`
+	- [X] [StatQuest: PCA - Practical Tips](https://www.youtube.com/watch?v=oRvgq966yZg) `0:08:19`
+	- [X] [StatQuest: PCA in Python](https://www.youtube.com/watch?v=Lsue2gEM9D0) `0:11:37`
+	- [X] [StatQuest: Linear Discriminant Analysis (LDA) clearly explained.](https://www.youtube.com/watch?v=azXCzI57Yfc) `0:15:12`
+	- [X] [StatQuest: MDS and PCoA](https://www.youtube.com/watch?v=GEn-_dAyYME) `0:08:18`
+	- [X] [StatQuest: t-SNE, Clearly Explained](https://www.youtube.com/watch?v=NEaUSP4YerM) `0:11:47`
+	- [X] [StatQuest: Hierarchical Clustering](https://www.youtube.com/watch?v=7xHsRkOdVwo) `0:11:19`
+	- [X] [StatQuest: K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA) `0:08:57`
+	- [X] [StatQuest: K-nearest neighbors, Clearly Explained](https://www.youtube.com/watch?v=HVXime0nQeI) `0:05:30`
+	- [X] [Naive Bayes, Clearly Explained!!!](https://www.youtube.com/watch?v=O2L2Uv9pdDA) `0:15:12`
+	- [X] [Gaussian Naive Bayes, Clearly Explained!!!](https://www.youtube.com/watch?v=H3EjCKtlVog) `0:09:41`
+	- [X] [StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk) `0:17:22`
+	- [X] [StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data](https://www.youtube.com/watch?v=wpNl-JwwplA) `0:05:16`
+	- [X] [Regression Trees, Clearly Explained!!!](https://www.youtube.com/watch?v=g9c66TUylZ4) `0:22:33`
+	- [X] [How to Prune Regression Trees, Clearly Explained!!!](https://www.youtube.com/watch?v=D0efHEJsfHo) `0:16:15`
+	- [X] [StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) `0:09:54`
+	- [X] [StatQuest: Random Forests Part 2: Missing data and clustering](https://www.youtube.com/watch?v=sQ870aTKqiM) `0:11:53`
+	- [X] [The Chain Rule](https://www.youtube.com/watch?v=wl1myxrtQHQ) `0:18:23`
+	- [X] [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8) `0:23:54`
+	- [X] [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI) `0:10:53`
+	- [ ] [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA) `0:20:54`
+	- [ ] [Gradient Boost Part 1: Regression Main Ideas](https://www.youtube.com/watch?v=3CC4N4z3GJc) `0:15:52`
+	- [ ] [Gradient Boost Part 2: Regression Details](https://www.youtube.com/watch?v=2xudPOBz-vs) `0:26:45`
+	- [ ] [Gradient Boost Part 3: Classification](https://www.youtube.com/watch?v=jxuNLH5dXCs) `0:17:02`
+	- [ ] [Gradient Boost Part 4: Classification Details](https://www.youtube.com/watch?v=StWY5QWMXCw) `0:36:59`
+	- [X] [Support Vector Machines, Clearly Explained!!!](https://www.youtube.com/watch?v=efR1C6CvhmE) `0:20:32`
+	- [X] [Support Vector Machines Part 2: The Polynomial Kernel](https://www.youtube.com/watch?v=Toet3EiSFcM) `0:07:15`
+	- [X] [Support Vector Machines Part 3: The Radial (RBF) Kernel](https://www.youtube.com/watch?v=Qc5IyLW_hns) `0:15:52`
+	- [ ] [XGBoost Part 1: Regression](https://www.youtube.com/watch?v=OtD8wVaFm6E) `0:25:46`
+	- [ ] [XGBoost Part 2: Classification](https://www.youtube.com/watch?v=8b1JEDvenQU) `0:25:17`
+	- [ ] [XGBoost Part 3: Mathematical Details](https://www.youtube.com/watch?v=ZVFeW798-2I) `0:27:24`
+	- [ ] [XGBoost Part 4: Crazy Cool Optimizations](https://www.youtube.com/watch?v=oRrKeUCEbq8) `0:24:27`
+	- [ ] [StatQuest: Fiitting a curve to data, aka lowess, aka loess](https://www.youtube.com/watch?v=Vf7oJ6z2LCc) `0:10:10`
+	- [ ] [Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU) `0:14:31`
+	- [ ] [Principal Component Analysis (PCA) clearly explained (2015)](https://www.youtube.com/watch?v=_UVHneBUBW0) `0:20:16`
+	- [ ] [Decision Trees in Python from Start to Finish](https://www.youtube.com/watch?v=q90UDEgYqeI) `1:06:23`
 ## Video Tutorials — Deep Learning
 <a name = 'mit-deeplearning'></a>
 - [ ] [MIT 6S191 | Deep Learning Lectures](http://introtodeeplearning.com/)
