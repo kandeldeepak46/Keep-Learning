@@ -180,7 +180,20 @@
       - [X] [Modern Pandas | PART 7 | Time Series](https://tomaugspurger.github.io/modern-7-timeseries.html)
       - [X] [Modern Pandas | PART 8 | Scaling](https://tomaugspurger.github.io/modern-8-scaling.html)
 
-   
+  ### Be able to implement models in Tensorflow and Keras
+   - [ ] [Coursera: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
+   - [ ] [Coursera: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+   - [ ] [Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
+   - [ ] [Book: Deep Learning with Python (Page: 276)](https://www.manning.com/books/deep-learning-with-python)
+   - [ ] [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+   - [ ] [Datacamp: Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
+   - [ ] [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
+   - [ ] [Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
+   - [ ] [Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
+   - [ ] [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+   - [ ] [Pluralsight: Deep Learning with Keras](https://www.pluralsight.com/courses/keras-deep-learning)
+   - [ ] [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+
   ### Control Your Code — Versioning
    - [X] [Version Control Via Git](https://medium.com/swlh/version-control-via-git-1b9cdab69ea6)
    - [X] [A Sucessful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/) 
@@ -273,6 +286,7 @@
 	- [ ] [Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU) `0:14:31`
 	- [ ] [Principal Component Analysis (PCA) clearly explained (2015)](https://www.youtube.com/watch?v=_UVHneBUBW0) `0:20:16`
 	- [ ] [Decision Trees in Python from Start to Finish](https://www.youtube.com/watch?v=q90UDEgYqeI) `1:06:23`
+
 
 ## Video Tutorials — Deep Learning
 <a name = 'mit-deeplearning'></a>
