@@ -229,7 +229,7 @@
    - [X] [Introductory level Statistical Learning](https://www.coursera.org/specializations/statistics)
    - [X] [Hidden Markov Models](https://www.youtube.com/watch?v=D_RIe5bd3hk)
    - [X] [Support Vector Machines](https://www.youtube.com/watch?v=_PwhiWxHK8o)
-   - [ ] [Genetic Algorithms](https://www.youtube.com/watch?v=kHyNqSnzP8Y)
+   - [X] [Genetic Algorithms](https://www.youtube.com/watch?v=kHyNqSnzP8Y)
    - [X] [Bayesian Networks](https://www.coursera.org/learn/probabilistic-graphical-models)
 
 ## Theory Of Classical Machine Learning 
