@@ -185,7 +185,7 @@
    - [ ] [Coursera: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
    - [X] [Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
    - [X] [Book: Deep Learning with Python (Page: 276)](https://www.manning.com/books/deep-learning-with-python)
-   - [ ] [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+   - [X] [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
    - [ ] [Datacamp: Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
    - [X] [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
    - [ ] [Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
