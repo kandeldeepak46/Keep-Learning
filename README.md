@@ -279,7 +279,7 @@
 	- [X] [Support Vector Machines Part 2: The Polynomial Kernel](https://www.youtube.com/watch?v=Toet3EiSFcM) `0:07:15`
 	- [ ] [Support Vector Machines Part 3: The Radial (RBF) Kernel](https://www.youtube.com/watch?v=Qc5IyLW_hns) `0:15:52`
 	- [X] [XGBoost Part 1: Regression](https://www.youtube.com/watch?v=OtD8wVaFm6E) `0:25:46`
-	- [ ] [XGBoost Part 2: Classification](https://www.youtube.com/watch?v=8b1JEDvenQU) `0:25:17`
+	- [X] [XGBoost Part 2: Classification](https://www.youtube.com/watch?v=8b1JEDvenQU) `0:25:17`
 	- [X] [XGBoost Part 3: Mathematical Details](https://www.youtube.com/watch?v=ZVFeW798-2I) `0:27:24`
 	- [X] [XGBoost Part 4: Crazy Cool Optimizations](https://www.youtube.com/watch?v=oRrKeUCEbq8) `0:24:27`
 	- [ ] [StatQuest: Fiitting a curve to data, aka lowess, aka loess](https://www.youtube.com/watch?v=Vf7oJ6z2LCc) `0:10:10`
