@@ -299,7 +299,7 @@
 
 - [ ] [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20210423-mlep-1-coursera-partner-promo-tool-mlep-launch) — COURSERA SPECIALIZATION
     - [X] [Course I | Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/home/welcome)
-    - [ ] [Course II | Machine Learning Data Lifecycle in Production](https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production/home/welcome)
+    - [X] [Course II | Machine Learning Data Lifecycle in Production](https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production/home/welcome)
     - [X] [Course III | Machine Learning Modeling Pipelines in Production](https://www.coursera.org/learn/machine-learning-modeling-pipelines-in-production/home/welcome)
     - [X] [Course IV | Deploying Machine Learning Models in Production](https://www.coursera.org/learn/deploying-machine-learning-models-in-production/home/welcome)
         
