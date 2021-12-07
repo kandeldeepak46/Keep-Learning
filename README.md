@@ -162,7 +162,7 @@
   - [X] [Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
   - [X] [Datacamp: Generalized Linear Models in Python](https://www.datacamp.com/courses/generalized-linear-models-in-python)
   - [X] [Notebook: scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)
-  - [ ] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
+  - [X] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
   - [X] [Video: human learn](https://calmcode.io/human-learn/introduction.html)
   - [X] [Youtube: dabl: Automatic Machine Learning with a Human in the Loop](https://www.youtube.com/watch?v=TQnxH90PqFc&list=PLYx7XA2nY5GejOB1lsvriFeMytD1-VS1B&index=2&t=0s) `00:25:43`
   - [X] [Youtube: Multilabel and Multioutput Classification -Machine Learning with TensorFlow & scikit-learn on Python](https://www.youtube.com/watch?v=bDdjebakjbA)
