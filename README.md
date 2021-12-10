@@ -270,7 +270,7 @@
 	- [ ] [The Chain Rule](https://www.youtube.com/watch?v=wl1myxrtQHQ) `0:18:23`
 	- [ ] [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8) `0:23:54`
 	- [X] [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI) `0:10:53`
-	- [ ] [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA) `0:20:54`
+	- [X] [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA) `0:20:54`
 	- [ ] [Gradient Boost Part 1: Regression Main Ideas](https://www.youtube.com/watch?v=3CC4N4z3GJc) `0:15:52`
 	- [ ] [Gradient Boost Part 2: Regression Details](https://www.youtube.com/watch?v=2xudPOBz-vs) `0:26:45`
 	- [ ] [Gradient Boost Part 3: Classification](https://www.youtube.com/watch?v=jxuNLH5dXCs) `0:17:02`
