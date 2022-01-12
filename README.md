@@ -51,7 +51,7 @@
 - [X] [AWS Cost Optimization for ML Infrastructure - EC2 spend](https://blog.floydhub.com/aws-cost-optimization-for-ml-infra-ec2/)
 - [X] [CI/CD for Machine Learning & AI](https://blog.paperspace.com/ci-cd-for-machine-learning-ai/)
 - [X] [Itaú Unibanco: How we built a CI/CD Pipeline for machine learning with ***online training*** in Kubeflow](https://cloud.google.com/blog/products/ai-machine-learning/itau-unibanco-how-we-built-a-cicd-pipeline-for-machine-learning-with-online-training-in-kubeflow)
-- [ ] [101 For Serving ML Models](https://pakodas.substack.com/p/101-for-serving-ml-models-10217c9f0764)
+- [X] [101 For Serving ML Models](https://pakodas.substack.com/p/101-for-serving-ml-models-10217c9f0764)
 - [X] [Deploying Machine Learning models to production — **Inference service architecture patterns**](https://medium.com/data-for-ai/deploying-machine-learning-models-to-production-inference-service-architecture-patterns-bc8051f70080)
 - [X] [Serverless ML: Deploying Lightweight Models at Scale](https://mark.douthwaite.io/serverless-machine-learning/)
 - [X] ML Model Rollout To Production. [Part 1](https://www.superwise.ai/resources/safely-rolling-out-ml-models-to-production) | [Part 2](https://www.superwise.ai/resources/part-ii-safely-rolling-out-models-to-production)
