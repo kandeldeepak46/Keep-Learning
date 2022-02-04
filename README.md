@@ -72,7 +72,7 @@
 - [X] [A/B Testing Machine Learning Models](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)
 - [X] [Data validation for machine learning. Polyzotis, N., Zinkevich, M., Roy, S., Breck, E. and Whang, S., 2019. Proceedings of Machine Learning and Systems](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
 - [X] [Testing machine learning based systems: a systematic mapping](https://link.springer.com/content/pdf/10.1007/s10664-020-09881-0.pdf)
-- [ ] [Explainable Monitoring: Stop flying blind and monitor your AI](https://blog.fiddler.ai/2020/04/explainable-monitoring-stop-flying-blind-and-monitor-your-ai/)
+- [X] [Explainable Monitoring: Stop flying blind and monitor your AI](https://blog.fiddler.ai/2020/04/explainable-monitoring-stop-flying-blind-and-monitor-your-ai/)
 - [ ] [WhyLogs: Embrace Data Logging Across Your ML Systems](https://medium.com/whylabs/whylogs-embrace-data-logging-a9449cd121d)
 - [X] [Evidently AI. Insights on doing machine learning in production. (Vendor blog.)](https://evidentlyai.com/blog)
 - [X] [The definitive guide to comprehensively monitoring your AI](https://www.monalabs.io/mona-blog/definitiveguidetomonitorai)
