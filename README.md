@@ -1,7 +1,7 @@
-# keep learning
+# Keep Learning
 
 
-# contents
+# Table of Contents
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
 | [Software Engineering - ML](#software-engineering) | [MLOps Core](#mlops-core) |
