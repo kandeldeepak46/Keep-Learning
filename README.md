@@ -225,7 +225,7 @@
 - [X] [Lecture 13 | Generative Models](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=13)
 - [X] [Lecture 14 | Deep Reinforcement Learning](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=14)
 - [X] [Lecture 15 | Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=15)
-- [ ] [Lecture 16 | Adversarial Examples and Adversarial Training](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=16)
+- [X] [Lecture 16 | Adversarial Examples and Adversarial Training](https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=16)
 
 
 <a name="master-computer-vision"></a>
