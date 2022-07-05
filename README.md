@@ -151,6 +151,18 @@
    - [X] [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
    - [X] [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
   
+  ### Research and Experiment Tools : NOTEBOOK
+   - [ ] [Article: Securely storing configuration credentials in a Jupyter Notebook](http://veekaybee.github.io/2020/02/25/secrets/)
+   - [ ] [Article: Automatically Reload Modules with %autoreload](https://switowski.com/blog/ipython-autoreload)
+   - [ ] [Calmcode: ipywidgets](https://calmcode.io/ipywidgets/introduction.html)
+   - [ ] [Documentation: Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
+   - [ ] [Pluralsight: Getting Started with Jupyter Notebook and Python](https://www.pluralsight.com/courses/jupyter-notebook-python)
+   - [ ] [Youtube: William Horton - A Brief History of Jupyter Notebooks](https://www.youtube.com/watch?v=kFhhCOeYcGw)
+   - [ ] [Youtube: I Like Notebooks](https://www.youtube.com/watch?v=9Q6sLbz37gk)
+   - [ ] [Youtube: I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)](https://www.youtube.com/watch?v=7jiPeIFXb6U)
+   - [ ] [Youtube: Ryan Herr - After model.fit, before you deploy| JupyterCon 2020](https://www.youtube.com/watch?v=hGHwu1h3l6g)
+   - [ ] [Youtube: nbdev live coding with Hamel Husain](https://www.youtube.com/watch?v=ZJTop5uqC2U&feature=youtu.be)
+   - [ ] [Youtube: How to Use JupyterLab](https://www.youtube.com/watch?v=A5YyoCKxEOU&feature=emb_logo)
   
   ### Modern Machine Learning With Scikit-Learn
   - [X] [Article: Stacking made easy with Sklearn](https://www.maartengrootendorst.com/blog/stacking/)
