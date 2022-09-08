@@ -12,7 +12,7 @@
 | [Introduction to Computer Science](#introduction-to-computer-science) | [Dive Into Deep Learning](#dive-into-deep-learning)
 | [Convolutional Neural Networks - CS231n - Stanford University](#cnn-cs231n)
 
-## MLOps Fundamentals
+## MLOps Fundamentals - Machine Learning in Production 
 <a name="software-engineering"></a>
 ### Software Engineering 
 
