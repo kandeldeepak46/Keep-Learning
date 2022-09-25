@@ -1,5 +1,6 @@
 # Keep Learning
 
+## [Daily Motivation](https://www.youtube.com/watch?v=JeapuI9ypk0)
 
 # Table of Contents
 | <!-- -->                         | <!-- -->                         |
