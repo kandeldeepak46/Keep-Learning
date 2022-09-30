@@ -5,6 +5,7 @@
 # Table of Contents
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
+| [Learning Philosophy](#philosophy)
 | [Software Engineering - ML](#software-engineering) | [MLOps Core](#mlops-core) |
 | [MLOps: Infrastructure](#mlops-infra) | [Blog Resources For Machine Learning](#resources)
 | [MLOps: Model Deployment and Serving](#deployment) |[MLOps: Testing, Monitoring and Maintenance](#testing-monintoring) |
@@ -13,10 +14,17 @@
 | [Introduction to Computer Science](#introduction-to-computer-science) | [Dive Into Deep Learning](#dive-into-deep-learning)
 | [Convolutional Neural Networks - CS231n - Stanford University](#cnn-cs231n)
 
+
+
+<a name="philosophy"></a>
+## Philosophy 
+- [ ] [The development of Neural Networks](https://www.allerin.com/blog/the-evolution-of-neural-networks)
+
+
 ## MLOps Fundamentals - Machine Learning in Production 
+
 <a name="software-engineering"></a>
 ### Software Engineering 
-
 - [X] [The Twelve Factors](https://12factor.net/)
 - [X] [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 - [X] [Book "The DevOps Handbook" by Gene Kim, et al. 2016](https://itrevolution.com/book/the-devops-handbook/)
