@@ -19,6 +19,7 @@
 <a name="philosophy"></a>
 ## Philosophy 
 - [ ] [The development of Neural Networks](https://www.allerin.com/blog/the-evolution-of-neural-networks)
+- [ ] [Receptive Field in CNN](https://theaisummer.com/receptive-field/)
 
 
 ## MLOps Fundamentals - Machine Learning in Production 
