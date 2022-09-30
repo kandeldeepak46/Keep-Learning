@@ -5,7 +5,7 @@
 # Table of Contents
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
-| [Learning Philosophy](#philosophy)
+| [Philosophy - A Love of the Wisdom](#philosophy)
 | [Software Engineering - ML](#software-engineering) | [MLOps Core](#mlops-core) |
 | [MLOps: Infrastructure](#mlops-infra) | [Blog Resources For Machine Learning](#resources)
 | [MLOps: Model Deployment and Serving](#deployment) |[MLOps: Testing, Monitoring and Maintenance](#testing-monintoring) |
