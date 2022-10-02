@@ -21,6 +21,7 @@
 - [ ] [The development of Neural Networks](https://www.allerin.com/blog/the-evolution-of-neural-networks)
 - [ ] [Receptive Field in CNN](https://theaisummer.com/receptive-field/)
 - [ ] [Standard Gaussian Distribution - Modelling Nature](https://en.wikipedia.org/wiki/Gaussian_function)
+- [ ] [Convolution - Math Driving The Computer Vision](https://en.wikipedia.org/wiki/Convolution)
 
 
 ## MLOps Fundamentals - Machine Learning in Production 
