@@ -23,6 +23,7 @@
 - [ ] [Standard Gaussian Distribution - Modelling Nature](https://en.wikipedia.org/wiki/Gaussian_function)
 - [ ] [Convolution - Math Driving The Computer Vision](https://en.wikipedia.org/wiki/Convolution)
 - [ ] [Half Order Derivatives](https://math.stackexchange.com/questions/477888/what-does-a-half-derivative-mean)
+- [ ] [Fourier Transforms For Image Processing](https://www.cs.unm.edu/~brayer/vision/fourier.html)
 
 ## MLOps Fundamentals - Machine Learning in Production 
 
