@@ -476,7 +476,6 @@
 
 <a name = 'core-software-engineering'></a>
 ## Software Engineering — CRUX
-
 - **Object Oriented Design**
 	- [Object-oriented Program Design and Software Engineering - Aduni](http://aduni.org/courses/java/index.php?view=cw)
 	- [OOSE - Object-Oriented Software Engineering, Dr. Tim Lethbridge](https://www.youtube.com/playlist?list=PL6iDJCG2nkhfNlig8NY5ePPfGvtQX6yLa)
@@ -502,7 +501,7 @@
 	- [MOOC - Software Architecture & Design - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
 
 <a name = 'research'></a>
-### Lets Understand Research Methodology 
+## Lets Understand Research Methodology 
 - [ ] [Paper: A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - [ ] [Paper: Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 - [ ] [Paper: Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
