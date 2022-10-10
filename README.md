@@ -27,83 +27,7 @@
 - [ ] [Singular Value Decomposition — Diagnolization of Square Matrix](https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d)
 - [ ] [Can you find Inverse of Rectangular Matrix? YES, Go through this ](https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/def_pseudo_inv.html) 
 
-## MLOps Fundamentals - Machine Learning in Production 
 
-<a name="software-engineering"></a>
-### Software Engineering 
-- [X] [The Twelve Factors](https://12factor.net/)
-- [X] [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
-- [X] [Book "The DevOps Handbook" by Gene Kim, et al. 2016](https://itrevolution.com/book/the-devops-handbook/)
-- [X] [State of DevOps 2019](https://research.google/pubs/pub48455/)
-- [X] [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml)
-- [X] [School of SRE](https://linkedin.github.io/school-of-sre/)
-
-<a name="mlops-core"></a>
- ### MLOps Core
-
-- [X] [Machine Learning Operations: You Design It, You Train It, You Run It!](https://ml-ops.org/)
-- [X] [MLOps SIG Specification](https://github.com/tdcox/mlops-roadmap/blob/master/MLOpsRoadmap2020.md)
-- [X] [ML in Production](http://mlinproduction.com/)
-- [X] [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning)
-- [X] [Udemy “Deployment of ML Models”](https://www.udemy.com/course/deployment-of-machine-learning-models/)
-- [X] [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
-- [X] [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
-- [X] [:rocket: Putting ML in Production](https://madewithml.com/courses/putting-ml-in-production/)
-- [X] [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/)
-- [X] [IBM ML Operationalization Starter Kit](https://github.com/ibm-cloud-architecture/refarch-ml-ops)
-- [X] [Productize ML. A self-study guide for Developers and Product Managers building Machine Learning products.](https://productizeml.gitbook.io/productize-ml/)
-- [X] [MLOps (Machine Learning Operations) Fundamentals on GCP](https://www.coursera.org/learn/mlops-fundamentals)
-- [X] [ML full Stack preparation](https://www.confetti.ai/)
-- [X] [Machine Learing Engineering in Production | DeepLearning AI](https://www.youtube.com/watch?v=Ta14KpeZJok)
-
-<a name="deployment"></a>
- ### MLOps: Model Deployment and Serving
-
-- [X] [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
-- [X] [Deploying R Models with MLflow and Docker](https://mdneuzerling.com/post/deploying-r-models-with-mlflow-and-docker/)
-- [X] [What Does it Mean to Deploy a Machine Learning Model?](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)
-- [X] [Software Interfaces for Machine Learning Deployment](https://mlinproduction.com/software-interfaces-for-machine-learning-deployment-deployment-series-02/)
-- [X] [Batch Inference for Machine Learning Deployment](https://mlinproduction.com/batch-inference-for-machine-learning-deployment-deployment-series-03/)
-- [X] [AWS Cost Optimization for ML Infrastructure - EC2 spend](https://blog.floydhub.com/aws-cost-optimization-for-ml-infra-ec2/)
-- [X] [CI/CD for Machine Learning & AI](https://blog.paperspace.com/ci-cd-for-machine-learning-ai/)
-- [X] [Itaú Unibanco: How we built a CI/CD Pipeline for machine learning with ***online training*** in Kubeflow](https://cloud.google.com/blog/products/ai-machine-learning/itau-unibanco-how-we-built-a-cicd-pipeline-for-machine-learning-with-online-training-in-kubeflow)
-- [X] [101 For Serving ML Models](https://pakodas.substack.com/p/101-for-serving-ml-models-10217c9f0764)
-- [X] [Deploying Machine Learning models to production — **Inference service architecture patterns**](https://medium.com/data-for-ai/deploying-machine-learning-models-to-production-inference-service-architecture-patterns-bc8051f70080)
-- [X] [Serverless ML: Deploying Lightweight Models at Scale](https://mark.douthwaite.io/serverless-machine-learning/)
-- [X] ML Model Rollout To Production. [Part 1](https://www.superwise.ai/resources/safely-rolling-out-ml-models-to-production) | [Part 2](https://www.superwise.ai/resources/part-ii-safely-rolling-out-models-to-production)
-- [X] [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
-- [X] [Deploying Python ML Models with Bodywork](https://alexioannides.com/2020/12/01/deploying-python-ml-models-with-bodywork/)
-
-<a name="testing-monintoring"></a>
-### MLOps: Testing, Monitoring and Maintenance
-
-- [X] [Building dashboards for operational visibility (AWS)](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
-- [X] [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
-- [X] [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
-- [X] [Unit Testing Data: What is it and how do you do it?](https://winderresearch.com/unit-testing-data-what-is-it-and-how-do-you-do-it/)
-- [X] [How to Test Machine Learning Code and Systems](https://eugeneyan.com/writing/testing-ml/) ([Accompanying code](https://github.com/eugeneyan/testing-ml))
-- [X] [Wu, T., Dong, Y., Dong, Z., Singa, A., Chen, X. and Zhang, Y., 2020. Testing Artificial Intelligence System Towards Safety and Robustness: State of the Art. IAENG International Journal of Computer Science, 47(3).](http://www.iaeng.org/IJCS/issues_v47/issue_3/IJCS_47_3_13.pdf)
-- [X] [Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/)
-- [X] [A/B Testing Machine Learning Models](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)
-- [X] [Data validation for machine learning. Polyzotis, N., Zinkevich, M., Roy, S., Breck, E. and Whang, S., 2019. Proceedings of Machine Learning and Systems](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
-- [X] [Testing machine learning based systems: a systematic mapping](https://link.springer.com/content/pdf/10.1007/s10664-020-09881-0.pdf)
-- [X] [Explainable Monitoring: Stop flying blind and monitor your AI](https://blog.fiddler.ai/2020/04/explainable-monitoring-stop-flying-blind-and-monitor-your-ai/)
-- [X] [WhyLogs: Embrace Data Logging Across Your ML Systems](https://medium.com/whylabs/whylogs-embrace-data-logging-a9449cd121d)
-- [X] [Evidently AI. Insights on doing machine learning in production. (Vendor blog.)](https://evidentlyai.com/blog)
-- [X] [The definitive guide to comprehensively monitoring your AI](https://www.monalabs.io/mona-blog/definitiveguidetomonitorai)
-- [X] [Introduction to Unit Testing for Machine Learning](https://themlrebellion.com/blog/Introduction-To-Unit-Testing-Machine-Learning/)
-- [X] [Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
-- [X] Test-Driven Development in MLOps [Part 1](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec)
-
-<a name="mlops-infra"></a>
-### MLOps: Infrastructure
-
-- [X] [MLOps Infrastructure Stack Canvas](https://miro.com/app/board/o9J_lfoc4Hg=/)
-- [X] [Rise of the Canonical Stack in Machine Learning. How a Dominant New Software Stack Will Unlock the Next Generation of Cutting Edge AI Apps](https://towardsdatascience.com/rise-of-the-canonical-stack-in-machine-learning-724e7d2faa75)
-- [X] [AI Infrastructure Alliance. Building the canonical stack for AI/ML](https://ai-infrastructure.org/)
-- [X] [Linux Foundation AI Foundation](https://wiki.lfai.foundation/)
-- [X]  ML Infrastructure Tools for Production | [Part 1 — Production ML — The Final Stage of the Model Workflow](https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb) | [Part 2 — Model Deployment and Serving](https://towardsdatascience.com/ml-infrastructure-tools-for-production-part-2-model-deployment-and-serving-fcfc75c4a362)
-- [X] [The MLOps Stack Template (by valohai)](https://valohai.com/blog/the-mlops-stack/)
 
 <a name='resources'></a>
 ## Resources — Popular Modern & Traditional Machine Learning Algorithms — Theory — Math — Implementation
@@ -439,6 +363,83 @@
     - [X] [Part III | Mathematical Details of XGBoost](https://www.youtube.com/watch?v=ZVFeW798-2I)
     - [X] [Part IV | Cool Optimization with XGBoost](https://www.youtube.com/watch?v=oRrKeUCEbq8)
 <a name = 'introduction-to-computer-science'></a>
+## MLOps Fundamentals - Machine Learning in Production 
+
+<a name="software-engineering"></a>
+### Software Engineering 
+- [X] [The Twelve Factors](https://12factor.net/)
+- [X] [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
+- [X] [Book "The DevOps Handbook" by Gene Kim, et al. 2016](https://itrevolution.com/book/the-devops-handbook/)
+- [X] [State of DevOps 2019](https://research.google/pubs/pub48455/)
+- [X] [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml)
+- [X] [School of SRE](https://linkedin.github.io/school-of-sre/)
+
+<a name="mlops-core"></a>
+ ### MLOps Core
+
+- [X] [Machine Learning Operations: You Design It, You Train It, You Run It!](https://ml-ops.org/)
+- [X] [MLOps SIG Specification](https://github.com/tdcox/mlops-roadmap/blob/master/MLOpsRoadmap2020.md)
+- [X] [ML in Production](http://mlinproduction.com/)
+- [X] [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning)
+- [X] [Udemy “Deployment of ML Models”](https://www.udemy.com/course/deployment-of-machine-learning-models/)
+- [X] [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+- [X] [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
+- [X] [:rocket: Putting ML in Production](https://madewithml.com/courses/putting-ml-in-production/)
+- [X] [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/)
+- [X] [IBM ML Operationalization Starter Kit](https://github.com/ibm-cloud-architecture/refarch-ml-ops)
+- [X] [Productize ML. A self-study guide for Developers and Product Managers building Machine Learning products.](https://productizeml.gitbook.io/productize-ml/)
+- [X] [MLOps (Machine Learning Operations) Fundamentals on GCP](https://www.coursera.org/learn/mlops-fundamentals)
+- [X] [ML full Stack preparation](https://www.confetti.ai/)
+- [X] [Machine Learing Engineering in Production | DeepLearning AI](https://www.youtube.com/watch?v=Ta14KpeZJok)
+
+<a name="deployment"></a>
+ ### MLOps: Model Deployment and Serving
+
+- [X] [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
+- [X] [Deploying R Models with MLflow and Docker](https://mdneuzerling.com/post/deploying-r-models-with-mlflow-and-docker/)
+- [X] [What Does it Mean to Deploy a Machine Learning Model?](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)
+- [X] [Software Interfaces for Machine Learning Deployment](https://mlinproduction.com/software-interfaces-for-machine-learning-deployment-deployment-series-02/)
+- [X] [Batch Inference for Machine Learning Deployment](https://mlinproduction.com/batch-inference-for-machine-learning-deployment-deployment-series-03/)
+- [X] [AWS Cost Optimization for ML Infrastructure - EC2 spend](https://blog.floydhub.com/aws-cost-optimization-for-ml-infra-ec2/)
+- [X] [CI/CD for Machine Learning & AI](https://blog.paperspace.com/ci-cd-for-machine-learning-ai/)
+- [X] [Itaú Unibanco: How we built a CI/CD Pipeline for machine learning with ***online training*** in Kubeflow](https://cloud.google.com/blog/products/ai-machine-learning/itau-unibanco-how-we-built-a-cicd-pipeline-for-machine-learning-with-online-training-in-kubeflow)
+- [X] [101 For Serving ML Models](https://pakodas.substack.com/p/101-for-serving-ml-models-10217c9f0764)
+- [X] [Deploying Machine Learning models to production — **Inference service architecture patterns**](https://medium.com/data-for-ai/deploying-machine-learning-models-to-production-inference-service-architecture-patterns-bc8051f70080)
+- [X] [Serverless ML: Deploying Lightweight Models at Scale](https://mark.douthwaite.io/serverless-machine-learning/)
+- [X] ML Model Rollout To Production. [Part 1](https://www.superwise.ai/resources/safely-rolling-out-ml-models-to-production) | [Part 2](https://www.superwise.ai/resources/part-ii-safely-rolling-out-models-to-production)
+- [X] [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
+- [X] [Deploying Python ML Models with Bodywork](https://alexioannides.com/2020/12/01/deploying-python-ml-models-with-bodywork/)
+
+<a name="testing-monintoring"></a>
+### MLOps: Testing, Monitoring and Maintenance
+
+- [X] [Building dashboards for operational visibility (AWS)](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
+- [X] [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
+- [X] [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
+- [X] [Unit Testing Data: What is it and how do you do it?](https://winderresearch.com/unit-testing-data-what-is-it-and-how-do-you-do-it/)
+- [X] [How to Test Machine Learning Code and Systems](https://eugeneyan.com/writing/testing-ml/) ([Accompanying code](https://github.com/eugeneyan/testing-ml))
+- [X] [Wu, T., Dong, Y., Dong, Z., Singa, A., Chen, X. and Zhang, Y., 2020. Testing Artificial Intelligence System Towards Safety and Robustness: State of the Art. IAENG International Journal of Computer Science, 47(3).](http://www.iaeng.org/IJCS/issues_v47/issue_3/IJCS_47_3_13.pdf)
+- [X] [Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/)
+- [X] [A/B Testing Machine Learning Models](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)
+- [X] [Data validation for machine learning. Polyzotis, N., Zinkevich, M., Roy, S., Breck, E. and Whang, S., 2019. Proceedings of Machine Learning and Systems](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
+- [X] [Testing machine learning based systems: a systematic mapping](https://link.springer.com/content/pdf/10.1007/s10664-020-09881-0.pdf)
+- [X] [Explainable Monitoring: Stop flying blind and monitor your AI](https://blog.fiddler.ai/2020/04/explainable-monitoring-stop-flying-blind-and-monitor-your-ai/)
+- [X] [WhyLogs: Embrace Data Logging Across Your ML Systems](https://medium.com/whylabs/whylogs-embrace-data-logging-a9449cd121d)
+- [X] [Evidently AI. Insights on doing machine learning in production. (Vendor blog.)](https://evidentlyai.com/blog)
+- [X] [The definitive guide to comprehensively monitoring your AI](https://www.monalabs.io/mona-blog/definitiveguidetomonitorai)
+- [X] [Introduction to Unit Testing for Machine Learning](https://themlrebellion.com/blog/Introduction-To-Unit-Testing-Machine-Learning/)
+- [X] [Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
+- [X] Test-Driven Development in MLOps [Part 1](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec)
+
+<a name="mlops-infra"></a>
+### MLOps: Infrastructure
+
+- [X] [MLOps Infrastructure Stack Canvas](https://miro.com/app/board/o9J_lfoc4Hg=/)
+- [X] [Rise of the Canonical Stack in Machine Learning. How a Dominant New Software Stack Will Unlock the Next Generation of Cutting Edge AI Apps](https://towardsdatascience.com/rise-of-the-canonical-stack-in-machine-learning-724e7d2faa75)
+- [X] [AI Infrastructure Alliance. Building the canonical stack for AI/ML](https://ai-infrastructure.org/)
+- [X] [Linux Foundation AI Foundation](https://wiki.lfai.foundation/)
+- [X]  ML Infrastructure Tools for Production | [Part 1 — Production ML — The Final Stage of the Model Workflow](https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb) | [Part 2 — Model Deployment and Serving](https://towardsdatascience.com/ml-infrastructure-tools-for-production-part-2-model-deployment-and-serving-fcfc75c4a362)
+- [X] [The MLOps Stack Template (by valohai)](https://valohai.com/blog/the-mlops-stack/)
 ## Introduction to Computer Science
 
 - [X] [CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs10-spring2015-berkeley.html)
