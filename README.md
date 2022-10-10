@@ -5,7 +5,7 @@
 # Table of Contents
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
-| [Philosophy - A Love of the Wisdom](#philosophy)
+| [Philosophy - A Love of the Wisdom](#philosophy) | [Dive Into Research](#research) |
 | [Software Engineering - ML](#software-engineering) | [MLOps Core](#mlops-core) |
 | [MLOps: Infrastructure](#mlops-infra) | [Blog Resources For Machine Learning](#resources)
 | [MLOps: Model Deployment and Serving](#deployment) |[MLOps: Testing, Monitoring and Maintenance](#testing-monintoring) |
@@ -364,6 +364,7 @@
     - [X] [Part III | Mathematical Details of XGBoost](https://www.youtube.com/watch?v=ZVFeW798-2I)
     - [X] [Part IV | Cool Optimization with XGBoost](https://www.youtube.com/watch?v=oRrKeUCEbq8)
 <a name = 'introduction-to-computer-science'></a>
+
 ## MLOps Fundamentals - Machine Learning in Production 
 
 <a name="software-engineering"></a>
@@ -412,6 +413,7 @@
 - [X] [Deploying Python ML Models with Bodywork](https://alexioannides.com/2020/12/01/deploying-python-ml-models-with-bodywork/)
 
 <a name="testing-monintoring"></a>
+
 ### MLOps: Testing, Monitoring and Maintenance
 
 - [X] [Building dashboards for operational visibility (AWS)](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
@@ -441,6 +443,8 @@
 - [X] [Linux Foundation AI Foundation](https://wiki.lfai.foundation/)
 - [X]  ML Infrastructure Tools for Production | [Part 1 — Production ML — The Final Stage of the Model Workflow](https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb) | [Part 2 — Model Deployment and Serving](https://towardsdatascience.com/ml-infrastructure-tools-for-production-part-2-model-deployment-and-serving-fcfc75c4a362)
 - [X] [The MLOps Stack Template (by valohai)](https://valohai.com/blog/the-mlops-stack/)
+
+
 ## Introduction to Computer Science
 
 - [X] [CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs10-spring2015-berkeley.html)
@@ -496,3 +500,60 @@
 - **Software Architecture**
 	- [CS 411 - Software Architecture Design - Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
 	- [MOOC - Software Architecture & Design - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
+
+<a name = 'research'></a>
+### Lets Understand Research Methodology 
+- [ ] [Paper: A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+- [ ] [Paper: Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+- [ ] [Paper: Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+- [ ] [Paper: Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+- [ ] [Paper: Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [ ] [Paper: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+- [ ] [Paper: XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
+- [ ] [Paper: RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
+- [ ] [Paper: GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](https://www.nyu.edu/projects/bowman/glue.pdf)
+- [ ] [Paper: Amazon.com Recommendations Item-to-Item Collaborative Filtering](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)
+- [ ] [Paper: Collaborative Filtering for Implicit Feedback Datasets](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=34AEEE06F0C2428083376C26C71D7CFF?doi=10.1.1.167.5120&rep=rep1&type=pdf)
+- [ ] [Paper: BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/pdf/1205.2618.pdf)
+- [ ] [Paper: Factorization Machines](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Rendle2010FM.pdf)
+- [ ] [Paper: Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)
+- [ ] [Paper: Multiword Expressions: A Pain in the Neck for NLP](http://lingo.stanford.edu/pubs/WP-2001-03.pdf)
+- [ ] [Paper: PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://arxiv.org/pdf/1912.01703.pdf)
+- [ ] [Paper: ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://arxiv.org/pdf/1909.11942.pdf)
+- [ ] [Paper: Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162)
+- [ ] [Paper: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf)
+- [ ] [Paper: Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/abs/1912.01991)
+- [ ] [Paper: FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685)
+- [ ] [Paper: Self-Labelling via Simultalaneous Clustering and Representation Learning](https://www.robots.ox.ac.uk/~vgg/research/self-label/)
+- [ ] [Paper: A survey on Semi-, Self- and Unsupervised Techniques in Image Classification](https://arxiv.org/abs/2002.08721)
+- [ ] [Paper: Train Once, Test Anywhere: Zero-Shot Learning for Text Classification](https://arxiv.org/abs/1712.05972)
+- [ ] [Paper: Zero-shot Text Classification With Generative Language Models](https://arxiv.org/abs/1912.10165)
+- [ ] [Paper: How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
+- [ ] [Paper: Universal Sentence Encoder](https://arxiv.org/abs/1803.11175)
+- [ ] [Paper: Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
+- [ ] [Paper: Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/abs/2005.04118)
+- [ ] [Paper: Temporal Ensembling for Semi-Supervised Learning](https://arxiv.org/abs/1610.02242)
+- [ ] [Paper: Boosting Self-Supervised Learning via Knowledge Transfer](https://arxiv.org/abs/1805.00385)
+- [ ] [Paper: Follow-up Question Generation](https://essay.utwente.nl/79491/1/Mandasari_MA_EEMCS.pdf)
+- [ ] [Paper: The Hardware Lottery](https://arxiv.org/abs/2009.06489)
+- [ ] [Paper: Question Generation via Overgenerating Transformations and Ranking](http://www.cs.cmu.edu/~mheilman/papers/heilman-smith-qg-tech-report.pdf)
+- [ ] [Paper: Good Question! Statistical Ranking for Question Generation](https://www.aclweb.org/anthology/N10-1086.pdf)
+- [ ] [Paper: Towards ML Engineering: A Brief History Of TensorFlow Extended (TFX)](https://arxiv.org/pdf/2010.02013v2.pdf)
+- [ ] [Paper: Neural Text Generation: A Practical Guide](https://cs.stanford.edu/~zxie/textgen.pdf)
+- [ ] [Paper: Pest Management In Cotton Farms: An AI-System Case Study from the Global South](https://dl.acm.org/doi/10.1145/3394486.3403363)
+- [ ] [Paper: BERT2DNN: BERT Distillation with Massive Unlabeled Data for Online E-Commerce Search](https://arxiv.org/abs/2010.10442)
+- [ ] [Paper: On the surprising similarities between supervised and self-supervised models](https://arxiv.org/abs/2010.08377)
+- [ ] [Paper: All-but-the-Top: Simple and Effective Postprocessing for Word Representations](https://arxiv.org/abs/1702.01417)
+- [ ] [Paper: Simple and Effective Dimensionality Reduction for Word Embeddings](https://arxiv.org/abs/1708.03629)
+- [ ] [Paper: AutoCompete: A Framework for Machine Learning Competitions](https://arxiv.org/abs/1507.02188)
+- [ ] [Paper: Cost-effective Deployment of BERT Models in Serverless Environment](https://mareksuppa.com/pdfs/naacl_2021_bert_serverless.pdf)
+- [ ] [Paper: Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)
+- [ ] [Paper: What Does BERT Learn about the Structure of Language?](https://aclanthology.org/P19-1356/)
+- [ ] [Paper: What do RNN Language Models Learn about Filler–Gap Dependencies?](https://aclanthology.org/W18-5423/)
+- [ ] [Paper: Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world](https://aclanthology.org/P14-1132/)
+- [ ] [Paper: MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding](https://arxiv.org/abs/2104.12763)
+- [ ] [Paper: Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs](https://arxiv.org/abs/2011.15124)
+- [ ] [Paper: Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
+- [ ] [Paper: The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
+- [ ] [Paper: Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering](https://arxiv.org/abs/1612.00837)
+
