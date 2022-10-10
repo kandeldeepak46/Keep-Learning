@@ -135,13 +135,13 @@
   - [ ] [Chapter VII | Inverse matrices, column space and null space](https://www.youtube.com/watch?v=uQhTuRlWMxw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=7)
   - [ ] [Chapter VIII | Nonsquare matrices as transformations between dimensions](https://www.youtube.com/watch?v=v8VSDg_WQlA&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=8)
   - [ ] [Chapter IX | Dot products and duality](https://www.youtube.com/watch?v=LyGKycYT2v0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=9)
-  - [ ] [Chapter X | Cross products](https://www.youtube.com/watch?v=LyGKycYT2v0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=10)
-  - [ ] [Chapter XI | Cross products in the light of linear transformations](https://www.youtube.com/watch?v=LyGKycYT2v0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=11)
-  - [ ] [Chapter XII | Cramer's rule, explained geometrically](https://www.youtube.com/watch?v=LyGKycYT2v0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=12)
-  - [ ] [Chapter XIII | Change of basis](https://www.youtube.com/watch?v=LyGKycYT2v0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=13)
-  - [ ] [Chapter XIV | Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=LyGKycYT2v0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=14)
-  - [ ] [Chapter IV | A quick trick for computing eigenvalues](https://www.youtube.com/watch?v=LyGKycYT2v0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=15)
-  - [ ] [Chapter IVI | Abstract vector spaces](https://www.youtube.com/watch?v=LyGKycYT2v0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=16)
+  - [ ] [Chapter X | Cross products](https://www.youtube.com/watch?v=eu6i7WJeinw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=10)
+  - [ ] [Chapter XI | Cross products in the light of linear transformations](https://www.youtube.com/watch?v=BaM7OCEm3G0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=11)
+  - [ ] [Chapter XII | Cramer's rule, explained geometrically](https://www.youtube.com/watch?v=jBsC34PxzoM&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=12)
+  - [ ] [Chapter XIII | Change of basis](https://www.youtube.com/watch?v=P2LTAUO1TdA&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=13)
+  - [ ] [Chapter XIV | Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=14)
+  - [ ] [Chapter IV | A quick trick for computing eigenvalues](https://www.youtube.com/watch?v=e50Bj7jn9IQ&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=15)
+  - [ ] [Chapter IVI | Abstract vector spaces](https://www.youtube.com/watch?v=TgKwz5Ikpc8&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=16)
   
   
   
