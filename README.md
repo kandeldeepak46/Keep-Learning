@@ -43,13 +43,12 @@
 - [X] [Get Used With Logistic Regression — With Code and Math Running Behind This Algorithm](https://www.jeremyjordan.me/logistic-regression/)
 - [X] [Various Kinds of Distances in Data Mining and Machine Learning](https://www.maartengrootendorst.com/blog/distances/)
 <!-- BLOG-POST-LIST:END -->
-<a name="useful-blogs"></a>
 
+
+<a name="useful-blogs"></a>
 ## Blogs — Be Better Everyday
 <!-- BLOG-POST-LIST:START -->
-  ### Explore With Papers
-  - [X] [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) — Word2Vec
-  - [X] [eXtreme Gradient Boosting](https://arxiv.org/abs/1603.02754) — A Scalable Tree Boosting System
+  
   
   ### Base of Modern Machine Learning 
   #### The Essense of Linear Algebra - 3 Blue 1 Brown
@@ -156,7 +155,7 @@
       - [X] [Modern Pandas | PART 7 | Time Series](https://tomaugspurger.github.io/modern-7-timeseries.html)
       - [X] [Modern Pandas | PART 8 | Scaling](https://tomaugspurger.github.io/modern-8-scaling.html)
 
-  ### Be able to implement models in Tensorflow and Keras
+  ### Hands On Tensorflow and Keras
    - [X] [Coursera: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
    - [X] [Coursera: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
    - [X] [Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
@@ -178,10 +177,13 @@
 ### Developer Tools For ML
    - [Weight And Biases](https://wandb.ai/site)
 
+
+
 <a name="dive-into-deep-learning"></a>
 ### Dive Into Deep learning
    - [X] [Introduction](https://d2l.ai/chapter_introduction/index.html)
    - [X] [Preliminaries](https://d2l.ai/chapter_preliminaries/index.html)
+
 
 <a name = "cnn-cs231n"></a>
 ## Convolutional Neural Networks
@@ -205,7 +207,6 @@
 
 <a name="master-computer-vision"></a>
 ## Master The Computer Vision — List of blogs and tutorials for diving deep into world of intelligent vision
- 
   ### Beginner Level — Mathematics
    - [X] [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
    - [X] [Singular Value Decomposition](https://www.youtube.com/watch?v=sJV0QyHoRio)
@@ -363,10 +364,9 @@
     - [X] [Part II | Classification with XGboost](https://www.youtube.com/watch?v=8b1JEDvenQU)
     - [X] [Part III | Mathematical Details of XGBoost](https://www.youtube.com/watch?v=ZVFeW798-2I)
     - [X] [Part IV | Cool Optimization with XGBoost](https://www.youtube.com/watch?v=oRrKeUCEbq8)
-<a name = 'introduction-to-computer-science'></a>
+
 
 ## MLOps Fundamentals - Machine Learning in Production 
-
 <a name="software-engineering"></a>
 ### Software Engineering 
 - [X] [The Twelve Factors](https://12factor.net/)
@@ -445,6 +445,7 @@
 - [X] [The MLOps Stack Template (by valohai)](https://valohai.com/blog/the-mlops-stack/)
 
 
+<a name = 'introduction-to-computer-science'></a>
 ## Introduction to Computer Science
 
 - [X] [CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs10-spring2015-berkeley.html)
@@ -502,6 +503,8 @@
 
 <a name = 'research'></a>
 ## Lets Understand Research Methodology 
+- [X] [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) — Word2Vec
+- [X] [eXtreme Gradient Boosting](https://arxiv.org/abs/1603.02754) — A Scalable Tree Boosting System
 - [ ] [Paper: A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - [ ] [Paper: Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 - [ ] [Paper: Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
