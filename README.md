@@ -71,7 +71,7 @@
   - [ ] [Chapter XVI Abstract vector spaces](https://www.youtube.com/watch?v=TgKwz5Ikpc8&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=16)
   
   #### Essense of Calculus - 3 Blue 1 Brown
-  - [ ] [Chapter I The Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=1
+  - [ ] [Chapter I The Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=1)
   - [ ] [Chapter II The paradox of the derivative](https://www.youtube.com/watch?v=9vKqVkMQHKk)
   
   ### Deep Learning
