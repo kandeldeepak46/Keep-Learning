@@ -24,7 +24,7 @@
 - [ ] [Convolution - Math Driving The Computer Vision](https://en.wikipedia.org/wiki/Convolution)
 - [ ] [Half Order Derivatives](https://math.stackexchange.com/questions/477888/what-does-a-half-derivative-mean)
 - [ ] [Fourier Transforms For Image Processing](https://www.cs.unm.edu/~brayer/vision/fourier.html)
-- [ ] [Singular Value Decomposition — Diagnolization of Square Matrix](https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d)
+- [X] [Singular Value Decomposition — Diagnolization of Square Matrix](https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d)
 - [ ] [Can you find Inverse of Rectangular Matrix? YES, Go through this ](https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/def_pseudo_inv.html) 
 
 
