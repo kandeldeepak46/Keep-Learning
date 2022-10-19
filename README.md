@@ -80,7 +80,7 @@
   - [ ] [Radon Transformation](https://towardsdatascience.com/the-radon-transform-basic-principle-3179b33f773a)
   - [ ] [Fourier Transform](https://en.wikipedia.org/wiki/Fourier_transform)
   - [ ] [Hankel Transformation](https://en.wikipedia.org/wiki/Hankel_transform)
-  - [ ] [Cross Correlation - Generalized Projection of Function Into Reference Vector]
+  - [ ] [Cross Correlation - Generalized Projection of Function Into Reference Vector](https://en.wikipedia.org/wiki/Cross-correlation)
   
   
   ### Deep Learning
