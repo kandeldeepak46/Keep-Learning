@@ -91,7 +91,6 @@
    - [X] [Learn About Bayesian Deep Learning](https://towardsdatascience.com/a-comprehensive-introduction-to-bayesian-deep-learning-1221d9a051de)
    - [X] [Learn Neural Networks and Deep Learning From Scratch](http://neuralnetworksanddeeplearning.com) — Theory
    - [X] [Learn BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) — Bidirectional Encoder Representations from Transformers — state-of-art NLP model
-   
    - [X] [Generative Pre-trained Transformer 3 (GPT-3)](https://in.springboard.com/blog/openai-gpt-3/) — revolutionary NLP model — 515 times more powerful than BERT
    - [X] [XGBoost Tutorials](https://xgboost.readthedocs.io/en/latest/tutorials/index.html) — Docs from the creater themselves
    
