@@ -74,10 +74,15 @@
   #### Essense of Calculus - 3 Blue 1 Brown
   - [ ] [Chapter I The Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=1)
   - [ ] [Chapter II The paradox of the derivative](https://www.youtube.com/watch?v=9vKqVkMQHKk)
+  
+  
   ### Various Useful Mathematical Transformations
   - [ ] [Radon Transformation](https://towardsdatascience.com/the-radon-transform-basic-principle-3179b33f773a)
   - [ ] [Fourier Transform](https://en.wikipedia.org/wiki/Fourier_transform)
   - [ ] [Hankel Transformation](https://en.wikipedia.org/wiki/Hankel_transform)
+  - [ ] [Cross Correlation - Generalized Projection of Function Into Reference Vector]
+  
+  
   ### Deep Learning
    - [X] [Creating Neural Network From Scratch](https://heartbeat.fritz.ai/building-a-neural-network-from-scratch-using-python-part-1-6d399df8d432) — Step By Step With Pythonic Code
    - [X] [Learn About Bayesian Deep Learning](https://towardsdatascience.com/a-comprehensive-introduction-to-bayesian-deep-learning-1221d9a051de)
