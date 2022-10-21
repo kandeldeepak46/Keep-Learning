@@ -571,4 +571,5 @@
 - [ ] [Paper: The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
 - [ ] [Paper: Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering](https://arxiv.org/abs/1612.00837)
 - [ ] [Paper : Convolutional Neural Networks enable efficient, accurate and fine-grained segmentation of plant species and communities from high-resolution UAV imagery](https://www.nature.com/articles/s41598-019-53797-9)
+- [ ] [Fine Tuning Unet For Ultrasound Image Segmentation](https://arxiv.org/abs/2002.08438)
 
