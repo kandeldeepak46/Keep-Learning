@@ -244,7 +244,8 @@
    
    <a name = 'principles-vision'></a>
    ### First Principles Of Computer Vision
-   - [ ] [Topics Covered | Introduction](https://www.youtube.com/watch?v=jJd0jpku8qs)
+   - [X] [Topics Covered | Introduction](https://www.youtube.com/watch?v=jJd0jpku8qs)
+   - [X] [A Brief History of Imaging | Image Sensing](https://www.youtube.com/watch?v=SWs9LQzpcN8)
 
 ## Theory Of Classical Machine Learning 
 - [ ] [StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
