@@ -12,7 +12,7 @@
 | [Blogs — Be Better Everyday](#useful-blogs) | [MIT 6S191  Introduction to Deep Learning](#mit-deeplearning) | 
 | [Master The Computer Vision — List of blogs and tutorials for diving deep into CV](#master-computer-vision) | [Software Engineering — CRUX](#core-software-engineering)
 | [Introduction to Computer Science](#introduction-to-computer-science) | [Dive Into Deep Learning](#dive-into-deep-learning)
-| [Convolutional Neural Networks - CS231n - Stanford University](#cnn-cs231n)
+| [Convolutional Neural Networks - CS231n - Stanford University](#cnn-cs231n) | [First Principles Of Computer Vision](#principles-vision) | 
 
 
 
@@ -240,6 +240,11 @@
    - [X] [Support Vector Machines](https://www.youtube.com/watch?v=_PwhiWxHK8o)
    - [X] [Genetic Algorithms](https://www.youtube.com/watch?v=kHyNqSnzP8Y)
    - [X] [Bayesian Networks](https://www.coursera.org/learn/probabilistic-graphical-models)
+   
+   
+   <a name = 'principles-vision'></a>
+   ### First Principles Of Computer Vision
+   - [ ] [Topics Covered | Introduction](https://www.youtube.com/watch?v=jJd0jpku8qs)
 
 ## Theory Of Classical Machine Learning 
 - [ ] [StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
