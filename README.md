@@ -28,7 +28,7 @@
 - [ ] [Can you find Inverse of Rectangular Matrix? YES, Go through this ](https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/def_pseudo_inv.html) 
 - [ ] [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 - [ ] [UNet — Line by Line Explanation](https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5)
-
+- [ ] [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 
 
 <a name='resources'></a>
