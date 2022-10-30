@@ -33,7 +33,9 @@
 - [ ] [ANT-UNet: Accurate and Noise-Tolerant Segmentation for Pathology Image Processing](https://ieeexplore.ieee.org/document/8919150)
 
 ## Pre Trained Deep Neural Networks For Transfer Learning
-- [Advanced Guide to Inception v3]()https://cloud.google.com/tpu/docs/inception-v3-advanced
+- [ ] [Advanced Guide to Inception v3](https://cloud.google.com/tpu/docs/inception-v3-advanced)
+
+
 <a name='resources'></a>
 ## Resources — Popular Modern & Traditional Machine Learning Algorithms — Theory — Math — Implementation
 <!-- BLOG-POST-LIST:START -->
