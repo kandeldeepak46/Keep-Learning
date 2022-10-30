@@ -31,7 +31,8 @@
 - [ ] [UNet — Line by Line Explanation](https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5)
 - [ ] [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 - [ ] [ANT-UNet: Accurate and Noise-Tolerant Segmentation for Pathology Image Processing](https://ieeexplore.ieee.org/document/8919150)
-
+- [ ] [Deep CNN for removal of salt and pepper noise](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-ipr.2018.6004)
+ 
 ## Pre Trained Deep Neural Networks For Transfer Learning
 - [ ] [Advanced Guide to Inception v3](https://cloud.google.com/tpu/docs/inception-v3-advanced)
 
