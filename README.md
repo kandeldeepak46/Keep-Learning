@@ -44,8 +44,8 @@
 ## Resources — Popular Modern & Traditional Machine Learning Algorithms — Theory — Math — Implementation
 <!-- BLOG-POST-LIST:START -->
 - [X] [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) — be used to with ML terms
-- [X] [Deep Learning Book](https://www.deeplearningbook.org) — helloworld_for_deep_learning
-- [X] [Basic Image Processing](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html) — learn baics of <mark>image processing</mark> for  <mark>image-preprocessing</mark>.
+- [X] [Deep Learning Book](https://www.deeplearningbook.org)
+- [X] [Basic Image Processing](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html) — learn basics of <mark>image processing</mark> for  <mark>image-preprocessing</mark>.
 - [X] [Xgboost with Different Categorical Encoding Methods](https://songxia-sophia.medium.com/two-machine-learning-algorithms-to-predict-xgboost-neural-network-with-entity-embedding-caac68717dea)
 - [X] [Linear Regression | Lasso Regression | Ridge Regession](https://machinelearningcompass.com/machine_learning_models/lasso_regression/) — details of regression concepts with thoery and code.
 - [X] [Magic Behind, Gaussian Naive Bias Classification Algorithm](https://www.jeremyjordan.me/naive-bayes-classification/)
