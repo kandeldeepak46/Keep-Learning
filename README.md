@@ -37,6 +37,7 @@
 ## Pre Trained Deep Neural Networks For Transfer Learning
 - [ ] [Advanced Guide to Inception v3](https://cloud.google.com/tpu/docs/inception-v3-advanced)
 - [ ] [Inception V3 - Keras Blog](https://keras.io/api/applications/inceptionv3/)
+- [ ] [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
 
 <a name='resources'></a>
