@@ -33,6 +33,7 @@
 - [ ] [ANT-UNet: Accurate and Noise-Tolerant Segmentation for Pathology Image Processing](https://ieeexplore.ieee.org/document/8919150)
 - [ ] [Deep CNN for Removal of Salt and Aepper Noise](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-ipr.2018.6004)
 - [ ] [A noise robust convolutional neural network for image classification](https://www.sciencedirect.com/science/article/pii/S2590123021000268)
+- [ ] [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357) 
  
 ## Pre Trained Deep Neural Networks For Transfer Learning
 - [ ] [Advanced Guide to Inception v3](https://cloud.google.com/tpu/docs/inception-v3-advanced)
