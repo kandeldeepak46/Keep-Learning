@@ -54,6 +54,7 @@
 - [X] [Learn About Decision Trees — Working and Methods in Layman's Term With Code](https://www.jeremyjordan.me/decision-trees/)
 - [X] [Get Used With Logistic Regression — With Code and Math Running Behind This Algorithm](https://www.jeremyjordan.me/logistic-regression/)
 - [X] [Various Kinds of Distances in Data Mining and Machine Learning](https://www.maartengrootendorst.com/blog/distances/)
+- [X] [Bayes' Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem) 
 <!-- BLOG-POST-LIST:END -->
 
 
