@@ -31,7 +31,7 @@
 - [ ] [UNet — Line by Line Explanation](https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5)
 - [ ] [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 - [ ] [ANT-UNet: Accurate and Noise-Tolerant Segmentation for Pathology Image Processing](https://ieeexplore.ieee.org/document/8919150)
-- [ ] [Deep CNN for Removal of Salt and Aepper Noise](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-ipr.2018.6004)
+- [ ] [Deep CNN for Removal of Salt and Pepper Noise](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-ipr.2018.6004)
 - [ ] [A noise robust convolutional neural network for image classification](https://www.sciencedirect.com/science/article/pii/S2590123021000268)
 - [ ] [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357) 
  
