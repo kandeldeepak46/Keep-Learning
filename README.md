@@ -32,10 +32,11 @@
 - [ ] [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 - [ ] [ANT-UNet: Accurate and Noise-Tolerant Segmentation for Pathology Image Processing](https://ieeexplore.ieee.org/document/8919150)
 - [ ] [Deep CNN for Removal of Salt and Pepper Noise](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-ipr.2018.6004)
-- [ ] [A noise robust convolutional neural network for image classification](https://www.sciencedirect.com/science/article/pii/S2590123021000268)
-- [ ] [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357) 
+- [ ] [A noise-robust convolutional neural network for image classification](https://www.sciencedirect.com/science/article/pii/S2590123021000268)
+- [ ] [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
+- [ ] [Evidence Lower Bound (ELBO)](https://mbernste.github.io/posts/elbo/)
  
-## Pre Trained Deep Neural Networks For Transfer Learning
+## Pre-Trained Deep Neural Networks For Transfer Learning
 - [ ] [Advanced Guide to Inception v3](https://cloud.google.com/tpu/docs/inception-v3-advanced)
 - [ ] [Inception V3 - Keras Blog](https://keras.io/api/applications/inceptionv3/)
 - [ ] [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
