@@ -35,6 +35,7 @@
 - [ ] [A noise-robust convolutional neural network for image classification](https://www.sciencedirect.com/science/article/pii/S2590123021000268)
 - [ ] [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
 - [ ] [Evidence Lower Bound (ELBO)](https://mbernste.github.io/posts/elbo/)
+- [ ] [Evidence, KL-divergence, and ELBO](https://mpatacchiola.github.io/blog/2021/01/25/intro-variational-inference.html)
  
 ## Pre-Trained Deep Neural Networks For Transfer Learning
 - [ ] [Advanced Guide to Inception v3](https://cloud.google.com/tpu/docs/inception-v3-advanced)
