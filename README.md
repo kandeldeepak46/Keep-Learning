@@ -13,9 +13,12 @@
 | [Master The Computer Vision — List of blogs and tutorials for diving deep into CV](#master-computer-vision) | [Software Engineering — CRUX](#core-software-engineering)
 | [Introduction to Computer Science](#introduction-to-computer-science) | [Dive Into Deep Learning](#dive-into-deep-learning)
 | [Convolutional Neural Networks - CS231n - Stanford University](#cnn-cs231n) | [First Principles Of Computer Vision](#principles-vision) | 
+| [Must Read Papers in Computer Vision](#cvpapers)|
 
 
-
+<a name="cvpapers"></a>
+## Must Read Papers in Computer Vision
+- [X] [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 <a name="philosophy"></a>
 ## Learn Philosophy 
 - [X] [The Development Of Neural Networks](https://www.allerin.com/blog/the-evolution-of-neural-networks)
