@@ -38,8 +38,8 @@
 - [ ] [A noise-robust convolutional neural network for image classification](https://www.sciencedirect.com/science/article/pii/S2590123021000268)
 - [ ] [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
 - [ ] [Evidence Lower Bound (ELBO)](https://mbernste.github.io/posts/elbo/)
-- [ ] [Evidence, KL-divergence, and ELBO](https://mpatacchiola.github.io/blog/2021/01/25/intro-variational-inference.html)
- 
+- [X] [Evidence, KL-divergence, and ELBO](https://mpatacchiola.github.io/blog/2021/01/25/intro-variational-inference.html)
+- [X] [Bayesin Linear Regression](https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-2-b72059a8ac7e)
 ## Pre-Trained Deep Neural Networks For Transfer Learning
 - [ ] [Advanced Guide to Inception v3](https://cloud.google.com/tpu/docs/inception-v3-advanced)
 - [ ] [Inception V3 - Keras Blog](https://keras.io/api/applications/inceptionv3/)
