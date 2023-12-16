@@ -16,7 +16,7 @@
 | [Must Read Papers in Computer Vision](#cvpapers) | [Large Language Model Resources](#llms) |
 
 <a name="llms"></a>
-## **Resources in Large Language Models**
+## Resources in Large Language Models
 - [ ] [Llama 2](https://ai.meta.com/llama/)
 - [ ] [Getting Started Guide - Llama 2](https://ai.meta.com/llama/get-started/)
 - [ ] [GitHub - Llama 2](https://github.com/facebookresearch/llama)
@@ -27,7 +27,7 @@
 - [ ] [Acceptable Use Policy](https://ai.meta.com/llama/use-policy/)
 - [ ] [Replicate](https://replicate.com/meta/)
 - [ ] [LangChain](https://www.langchain.com/)
-
+- [X] [NeurIPS Large Language Model Efficiency Challenge](https://github.com/ayulockin/neurips-llm-efficiency-challenge?tab=readme-ov-file) 
 <a name="cvpapers"></a>
 ## Must Read Papers in Computer Vision
 - [X] [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
