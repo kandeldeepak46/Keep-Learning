@@ -13,8 +13,20 @@
 | [Master The Computer Vision — List of blogs and tutorials for diving deep into CV](#master-computer-vision) | [Software Engineering — CRUX](#core-software-engineering)
 | [Introduction to Computer Science](#introduction-to-computer-science) | [Dive Into Deep Learning](#dive-into-deep-learning)
 | [Convolutional Neural Networks - CS231n - Stanford University](#cnn-cs231n) | [First Principles Of Computer Vision](#principles-vision) | 
-| [Must Read Papers in Computer Vision](#cvpapers)|
+| [Must Read Papers in Computer Vision](#cvpapers) | [Large Language Model Resources](#llms) |
 
+<a name="llms"></a>
+## **Resources in Large Language Models**
+- [ ] [Llama 2](https://ai.meta.com/llama/)
+- [ ] [Getting Started Guide - Llama 2](https://ai.meta.com/llama/get-started/)
+- [ ] [GitHub - Llama 2](https://github.com/facebookresearch/llama)
+- [ ] [Github - LLama 2 Recipes](https://github.com/facebookresearch/llama-recipes)
+- [ ] [Research Paper](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
+- [ ] [Model Card](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md)
+- [ ] [Responsible Use Guide](https://ai.meta.com/llama/responsible-use-guide/)
+- [ ] [Acceptable Use Policy](https://ai.meta.com/llama/use-policy/)
+- [ ] [Replicate](https://replicate.com/meta/)
+- [ ] [LangChain](https://www.langchain.com/)
 
 <a name="cvpapers"></a>
 ## Must Read Papers in Computer Vision
