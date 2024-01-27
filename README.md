@@ -17,7 +17,7 @@
 
 <a name="llms"></a>
 ## Resources in Large Language Models
-- [ ] [Llama 2](https://ai.meta.com/llama/)
+- [X] [Llama 2](https://ai.meta.com/llama/)
 - [ ] [Getting Started Guide - Llama 2](https://ai.meta.com/llama/get-started/)
 - [ ] [GitHub - Llama 2](https://github.com/facebookresearch/llama)
 - [ ] [Github - LLama 2 Recipes](https://github.com/facebookresearch/llama-recipes)
